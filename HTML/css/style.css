@@ -30,15 +30,15 @@
 @import url("https://fonts.googleapis.com/css?family=Nunito:300,400,600,700&display=swap");
 
 .bg-primary {
-  background-color: #2f55d4 !important;
+  background-color: #1360EF !important;
 }
 
 .text-primary {
-  color: #2f55d4 !important;
+  color: #1360EF !important;
 }
 
 a.text-primary:hover {
-  color: #284bc1 !important;
+  color: #1360EF !important;
 }
 
 .bg-secondary {
