@@ -3401,7 +3401,7 @@ p {
 }
 
 #success_page h3 {
-  color: #2eca8b;
+  color: #1360EF;
   font-size: 22px;
 }
 
@@ -3507,4 +3507,9 @@ hr {
   border: 0;
   border-top: 1px solid #333744;
 }
+
+p.padding-bottom {
+  padding-bottom: 0%;
+}
+
 /*# sourceMappingURL=style.css.map */
