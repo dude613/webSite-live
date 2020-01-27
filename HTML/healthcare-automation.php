@@ -2,23 +2,9 @@
 <!DOCTYPE html>
     <html lang="en">
 
-    <head>
-        <meta charset="utf-8" />
-        <title>FlexBot - Saas & Software Landing Page Template</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Premium Bootstrap 4 Landing Page Template" />
-        <meta name="keywords" content="bootstrap 4, premium, marketing, multipurpose" />
-        <meta content="Shreethemes" name="author" />
-        <!-- favicon -->
-        <link rel="shortcut icon" href="images/favicon.ico">
-        <!-- Bootstrap -->
-        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <!-- Icons -->
-        <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
-        <!-- Main css --> 
-        <link href="css/style.css" rel="stylesheet" type="text/css" />
-
-    </head>
+    <?php
+    include("head.php");
+    ?>
 
     <body>
         <!-- Loader -->
@@ -32,65 +18,9 @@
         </div>
         <!-- Loader -->
         
-        <!-- Navbar STart -->
-        <header id="topnav" class="defaultscroll sticky">
-            <div class="container">
-                <!-- Logo container-->
-                <div>
-                    <a class="logo" href="index.html">FlexBot<span class="text-primary">.</span></a>
-                </div>                 
-                <div class="buy-button">
-                    <a href="https://app.bflexd.com/" class="btn btn-primary mt-2 mr-2">Sign Up</a>
-                </div><!--end login button-->
-                <!-- End Logo container-->
-                <div class="menu-extras">
-                    <div class="menu-item">
-                        <!-- Mobile menu toggle-->
-                        <a class="navbar-toggle">
-                            <div class="lines">
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                            </div>
-                        </a>
-                        <!-- End mobile menu toggle-->
-                    </div>
-                </div>
-        
-                <div id="navigation">
-                    <!-- Navigation Menu-->   
-                    <ul class="navigation-menu">
-                        <li><a href="page-pricing.html">Pricing</a></li>
-                        <li class="has-submenu">
-                            <a href="posts.html">Cases</a><span class="menu-arrow"></span>
-                            <ul class="submenu megamenu">
-                                <li>
-                                    <ul>
-                                        <li><a href="index-job.html">Healthcare </a></li>
-                                        <li><a href="index-customer.html">Financial <span class="badge badge-primary rounded ml-2"> New </span> </a></li>
-                                        <li><a href="index-onepage.html">Retail </a></li>
-                                        <li><a href="index-rtl.html">Hospitality </a></li>
-                                    </ul>
-                                </li>   
-                            </ul>
-                        </li>
-                            <li class="has-submenu">
-                                <a href="partners.html">Partners</a>
-                            </li>
-                            <li class="has-submenu">
-                                <a href="page-contact-three.html">Contact</a>
-                            </li>
-                        </ul>
-                    </li>
-                    </ul>
-                        <!--end navigation menu-->
-                    <div class="buy-menu-btn d-none">
-                        <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary">Buy Now</a>
-                    </div><!--end login button-->
-                </div><!--end navigation-->
-            </div><!--end container-->
-        </header><!--end header-->
-        <!-- Navbar End -->
+        <?php
+        include("navbar.php");
+        ?>
         
         <!-- Hero Start -->
         <section class="bg-half bg-light">
@@ -100,15 +30,15 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="page-next-level">
-                                    <h4 class="title"> HOSPITALITY REPORTING AUTOMATION </h4>
+                                    <h4 class="title"> HEALTHCARE AUTOMATION - AN INDUSTRY MOVING FASTER THAN WE CAN</h4>
                                     <ul class="list-unstyled mt-4">
-                                        <li class="list-inline-item h6 date text-muted"> <span class="text-dark">Added :</span> June 21st, 2019</li>
+                                        <li class="list-inline-item h6 date text-muted"> <span class="text-dark">Added :</span> May 21st, 2019</li>
                                     </ul>
                                     <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
                                         <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
                                         <li><a href="#" class="text-uppercase font-weight-bold text-dark">Cases</a></li>
                                         <li>
-                                            <span class="text-uppercase text-primary font-weight-bold"> Hospitality Reporting Automation </span> 
+                                            <span class="text-uppercase text-primary font-weight-bold"> Healthcare Automation </span> 
                                         </li> 
                                     </ul>
                                 </div>
@@ -137,23 +67,23 @@
                     <div class="col-lg-9">
                         <div class="p-4 shadow rounded border">
                             <h5>Overview :</h5>
-                            <h6>Lead Generation Automation </h6>
-                            <p class="text-muted">One of the largest hotel companies worldwide and the leader within their market, with more than 380 hotels throughout more than 40 countries and four continents. The strategic focus on international growth has allowed them to be the first hotel company in it’s local with presence in key markets such as China, the Arabian Gulf and the US, as well as maintaining its leadership in traditional markets such as Europe, Latin America or the Caribbean</p>
-
-                            <h5>Challenge:</h5>
-                            <p class="text-muted">With an aggressive growth plan in a new market, coupled with the need to provide greater operational visibility to Hotel Operations Managers, the Finance Management department determined that they needed a cost-effective and efficient way to deliver accurate, daily and timely management reporting to each Hotel Operator in order to help them manage their business operations more proactively and achieve their financial goals.</p>
-                            <p class="text-muted">If done manually, the creation of these daily reports would be very time-consuming and prone to errors as it would require the compilation and analysis of data from multiple sources and systems (6 different reports from each POS system at each hotel location).</p>
-                            <p class="text-muted">Since the company did not want to heavily invest in an expensive Business Intelligence IT initiative, they had initially considered outsourcing the preparation of these reports to an offshore provider in a different time zone so they could have the reports readily available by 9:00 am local time.</p>
+                            <h6>Healthcare Industry Automation </h6>
+                            <p class="text-muted">With the rise of disruptive technologies, escalating costs due to legacy applications and, a paradigm shift towards patient-centric services, the healthcare sector has started to adopt Robotic Process Automation (RPA) and now is at the forefront of making the delivery of healthcare services more efficient, effective and affordable. Healthcare has traditionally been data-driven, with a large amount of data being collected manually through forms, contrasting internal IT systems, and a myriad collection of documents and databases.</p>
+                            <p class="text-muted">Healthcare providers and professionals seek different ways to enhance patient interaction and outcomes, save costs, improve productivity, and increase operational efficiencies. </p>
+            
+                            <h5>Here are the top Robotic Process Automation (RPA)-healthcare use cases in Payer & Provider sectors:</h5>
+                            <ul class="list-unstyled feature-list text-muted">
                             
-                            <h5>Solution:</h5>
-                            <p class="text-muted">Digital robotics & automation was used in the creation and distribution of these daily reports. The daily report includes multiple relevant performance metrics such as revenue vs. forecast, no shows, occupancy, average night spend, etc.</p>
-                            <p class="text-muted">And of course, it was issued daily by 9:00 am each morning.</p>
-
-                            <h5>Results:</h5>
-                            <p class="text-muted">The process was successfully automated within the estimated 8-week timeframe for the first wave of five (5) hotel locations that were included in the Proof of Concept (POC). Given the great success, they are now in the process of rolling out this report to all of the hotels globally.</p>
+                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Claim filing:</strong> Typical claim processing is a time-consuming activity that involves repetitive tasks and gathering of vast amount of data information from different sources. With predetermined rules, Robotic Process Automation (RPA) can extract structured and unstructured data, update systems and identify exceptions. The automated process reduces average transaction times from 12 to 2 minutes.</li>
+                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Member enrollment:</strong> The need for healthcare insurance keeps growing every year. Payers have to process a huge influx of new member enrollment requests. It is a manual process that involves a tonne of paper work, the physical movement of paperwork, and tremendous attention to detail through human eyes. Robotic Process Automation (RPA) can automate the entire process seamlessly, and bring down the processing errors and incomplete applications; subsequently reducing the turnaround of enrollment cycle times.</li>
+                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Provider network management:</strong> Payers have to spend an equal amount of time and effort in managing the healthcare providers they collaborate with. Bad provider information could impact operational inefficiencies, like low auto-adjudication rates, wasted time and dollars in terms of tracking provider details, etc. These are typically caused due to errors or missing information, like phone numbers/incorrect address in provider records. Robotic Process Automation (RPA) can reduce the cost of maintaining provider data and improve overall integrity.</li>
+                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Contract management:</strong> It is not just about adding a new provider or renewing the contract of an existing provider; payers process large volumes of data in both structured and unstructured formats. Search/retrieval, relationship management, and reporting are some of the areas that face challenges due to highly time consuming and error prone manual processes. With OCR (Optical Character Recognition) enabled Robotic Process Automation (RPA) and IPA (Intelligent Process Automation), process efficiencies can be achieved in these areas.</li>
+                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Revenue Cycle Management (RCM):</strong> RCM in healthcare plays a pivotal role in maintaining the long-term feasibility and profitability of healthcare providers. Revenue cycles need to be optimized by reducing the time involved between patient services delivery and payments. Robotic Process Automation (RPA) can help reduce claim denials and claim resolution timelines, get rid of manual errors, and enable faster processing of transactions.
+                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Claims Processing:</strong> The processing of claims submission is automated to only a certain extent. At a basic level, automation is used to post transactions, provide general ledger information, and pay out funds to claimants. Robotic Process Automation (RPA) can optimize these kind of transactional and rule-based work continuously and at 100% accuracy level. Hospitals can automate their health plan processing through Robotic Process Automation (RPA) and considerably reduce the claims backlog.
+                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Expense payment processing:</strong> The reimbursement received from insurance payers has to be accounted properly to the appropriate patient accounts in the billing system. It involves a lot of paperwork and manual cross-checking of information from different data sources and accounting systems. Robotic Process Automation (RPA) can be used to integrate with existing applications, extract the relevant data, perform bulk payment posting and reconciliation tasks, trigger responses, send payment reminders automatically, and communicate across myriad systems.
+                            
                             
                             </ul>
-                            
                             <a href="page-contact-three.html" class="btn btn-primary">Get Started</a>
                         </div>
                     </div><!--end col-->

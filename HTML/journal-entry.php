@@ -2,23 +2,9 @@
 <!DOCTYPE html>
     <html lang="en">
 
-    <head>
-        <meta charset="utf-8" />
-        <title>FlexBot - Saas & Software Landing Page Template</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Premium Bootstrap 4 Landing Page Template" />
-        <meta name="keywords" content="bootstrap 4, premium, marketing, multipurpose" />
-        <meta content="Shreethemes" name="author" />
-        <!-- favicon -->
-        <link rel="shortcut icon" href="images/favicon.ico">
-        <!-- Bootstrap -->
-        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <!-- Icons -->
-        <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
-        <!-- Main css --> 
-        <link href="css/style.css" rel="stylesheet" type="text/css" />
-
-    </head>
+    <?php
+    include("head.php");
+    ?>
 
     <body>
         <!-- Loader -->
@@ -32,65 +18,9 @@
         </div>
         <!-- Loader -->
         
-        <!-- Navbar STart -->
-        <header id="topnav" class="defaultscroll sticky">
-            <div class="container">
-                <!-- Logo container-->
-                <div>
-                    <a class="logo" href="index.html">FlexBot<span class="text-primary">.</span></a>
-                </div>                 
-                <div class="buy-button">
-                    <a href="https://app.bflexd.com/" class="btn btn-primary mt-2 mr-2">Sign Up</a>
-                </div><!--end login button-->
-                <!-- End Logo container-->
-                <div class="menu-extras">
-                    <div class="menu-item">
-                        <!-- Mobile menu toggle-->
-                        <a class="navbar-toggle">
-                            <div class="lines">
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                            </div>
-                        </a>
-                        <!-- End mobile menu toggle-->
-                    </div>
-                </div>
-        
-                <div id="navigation">
-                    <!-- Navigation Menu-->   
-                    <ul class="navigation-menu">
-                        <li><a href="page-pricing.html">Pricing</a></li>
-                        <li class="has-submenu">
-                            <a href="posts.html">Cases</a><span class="menu-arrow"></span>
-                            <ul class="submenu megamenu">
-                                <li>
-                                    <ul>
-                                        <li><a href="index-job.html">Healthcare </a></li>
-                                        <li><a href="index-customer.html">Financial <span class="badge badge-primary rounded ml-2"> New </span> </a></li>
-                                        <li><a href="index-onepage.html">Retail </a></li>
-                                        <li><a href="index-rtl.html">Hospitality </a></li>
-                                    </ul>
-                                </li>   
-                            </ul>
-                        </li>
-                            <li class="has-submenu">
-                                <a href="partners.html">Partners</a>
-                            </li>
-                            <li class="has-submenu">
-                                <a href="page-contact-three.html">Contact</a>
-                            </li>
-                        </ul>
-                    </li>
-                    </ul>
-                        <!--end navigation menu-->
-                    <div class="buy-menu-btn d-none">
-                        <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary">Buy Now</a>
-                    </div><!--end login button-->
-                </div><!--end navigation-->
-            </div><!--end container-->
-        </header><!--end header-->
-        <!-- Navbar End -->
+        <?php
+        include("navbar.php");
+        ?>
         
         <!-- Hero Start -->
         <section class="bg-half bg-light">
@@ -100,15 +30,15 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="page-next-level">
-                                    <h4 class="title"> LEAD GENERATION AUTOMATION </h4>
+                                    <h4 class="title"> JOURNAL ENTRY AUTOMATION & RETAINED EARNING (JERE)</h4>
                                     <ul class="list-unstyled mt-4">
-                                        <li class="list-inline-item h6 date text-muted"> <span class="text-dark">Added :</span> June 21st, 2019</li>
+                                        <li class="list-inline-item h6 date text-muted"> <span class="text-dark">Added :</span> Feburary 8th, 2019</li>
                                     </ul>
                                     <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
                                         <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
                                         <li><a href="#" class="text-uppercase font-weight-bold text-dark">Cases</a></li>
                                         <li>
-                                            <span class="text-uppercase text-primary font-weight-bold"> Marketing - Lead Generation Automation </span> 
+                                            <span class="text-uppercase text-primary font-weight-bold"> Journal Entry Automation </span> 
                                         </li> 
                                     </ul>
                                 </div>
@@ -137,27 +67,19 @@
                     <div class="col-lg-9">
                         <div class="p-4 shadow rounded border">
                             <h5>Overview :</h5>
-                            <h6>Lead Generation Automation </h6>
-                            <p class="text-muted">If you utilize a CRM, chances are you have data management headaches. Even with all the digital bells and whistles, a vendor might sell you, lead gen data flows tend to be a mess of data sources, coming in from an ever-growing array of channels and partners.</p>
-                            <p class="text-muted">Digital robots & automation is a perfect solution to those headaches. We focus on digital robots & automation for good reason. Our bots ability to take on the tedious, manual data plumbing tasks that almost every marketing group has to deal with on a daily basis, is proving to be a world class solution.</p>
-                            <p class="text-muted">Our bots sweet spot is transforming an existing, well-understood process that has repeatable steps for completion.
-
-                            <p class="text-muted"><strong>Here are three typical CRM lead process flows that our bots automate:</strong></p>
-
-                        <ul class="list-unstyled feature-list text-muted">
-                            <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong></strong> Manual data entry into CRM</li>
-                            <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong></strong> Import of a formatted data file into a CRM</li>
-                            <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong></strong> Sending data to a CRM Application Interface</li>
-                        </ul>
-
-                            <h6>Our bots execute the following steps:</h6>
-                            <ul class="list-unstyled feature-list text-muted"></ul>
-                           
-                                <p class="text-muted">Examine identified locations for the new leads. This could be in a designated email box, file drop locations like DropBox, Google Drive, an FTP server, or in a database (online or offline.</p>
-                                <p class="text-muted">Once the new leads are located, the bot could then consolidate and transform the leads into a consistent file format. Any missing or inconsistent data could be flagged and logged for manual review.</p>
-                                <p class="text-muted">Now the bot can get to work and begin executing either: 1) The data entry process directly into the existing CRM system. 2) replicating the steps to import/upload a file.</p>
-
+                            <h6>Business Automation + Digital Robots + Journal Entry Automation </h6>
+                            <p class="text-muted">Journal Entry Automation: Automated the process to fetch debit and credit detail from SAP by executing particular transaction code for predefined company code. Then updating those details in predefined excel and generating a text file by executing inbuilt macro of excel template. Then the bot goes to WPA site and navigates to a particular company code to upload the text file.</p>
+                            <p class="text-muted">After uploading the text file, the robot executes same transaction code for same company code in SAP and checks for the available value. The bot takes the screen shot of the current SAP screen, pastes it into excel, and generate a PDF file. Lastly, it then goes to the WPA site again and uploads the PDF file. On successful completion of process, the robot sends a email to the designated/specified business users.</p>
+                            
+                            <h5>Key Operational Metric Improvements :</h5>
+                            <ul class="list-unstyled feature-list text-muted">
+                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Time per Invoice Processed Cut By 80%</li>
+                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Increased Accuracy & Reduction in Manual Errors </li>
+                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>End to End Process Automation</li>
+                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Accurate Visibility into Invoice Aging, Cash Flow and AP Productivity</li>
+                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Eliminate Offsite Document Storage</li>
                             </ul>
+
                             <a href="page-contact-three.html" class="btn btn-primary">Get Started</a>
                         </div>
                     </div><!--end col-->

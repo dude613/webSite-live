@@ -2,23 +2,9 @@
 <!DOCTYPE html>
     <html lang="en">
 
-    <head>
-        <meta charset="utf-8" />
-        <title>FlexBot - Saas & Software Landing Page Template</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Premium Bootstrap 4 Landing Page Template" />
-        <meta name="keywords" content="bootstrap 4, premium, marketing, multipurpose" />
-        <meta content="Shreethemes" name="author" />
-        <!-- favicon -->
-        <link rel="shortcut icon" href="images/favicon.ico">
-        <!-- Bootstrap -->
-        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <!-- Icons -->
-        <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
-        <!-- Main css --> 
-        <link href="css/style.css" rel="stylesheet" type="text/css" />
-
-    </head>
+    <?php
+        include("head.php");
+        ?>
 
     <body>
         <!-- Loader -->
@@ -32,65 +18,9 @@
         </div>
         <!-- Loader -->
         
-        <!-- Navbar STart -->
-        <header id="topnav" class="defaultscroll sticky">
-            <div class="container">
-                <!-- Logo container-->
-                <div>
-                    <a class="logo" href="index.html">FlexBot<span class="text-primary">.</span></a>
-                </div>                 
-                <div class="buy-button">
-                    <a href="https://app.bflexd.com/" class="btn btn-primary mt-2 mr-2">Sign Up</a>
-                </div><!--end login button-->
-                <!-- End Logo container-->
-                <div class="menu-extras">
-                    <div class="menu-item">
-                        <!-- Mobile menu toggle-->
-                        <a class="navbar-toggle">
-                            <div class="lines">
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                            </div>
-                        </a>
-                        <!-- End mobile menu toggle-->
-                    </div>
-                </div>
-        
-                <div id="navigation">
-                    <!-- Navigation Menu-->   
-                    <ul class="navigation-menu">
-                        <li><a href="page-pricing.html">Pricing</a></li>
-                        <li class="has-submenu">
-                            <a href="posts.html">Cases</a><span class="menu-arrow"></span>
-                            <ul class="submenu megamenu">
-                                <li>
-                                    <ul>
-                                        <li><a href="index-job.html">Healthcare </a></li>
-                                        <li><a href="index-customer.html">Financial <span class="badge badge-primary rounded ml-2"> New </span> </a></li>
-                                        <li><a href="index-onepage.html">Retail </a></li>
-                                        <li><a href="index-rtl.html">Hospitality </a></li>
-                                    </ul>
-                                </li>   
-                            </ul>
-                        </li>
-                            <li class="has-submenu">
-                                <a href="partners.html">Partners</a>
-                            </li>
-                            <li class="has-submenu">
-                                <a href="page-contact-three.html">Contact</a>
-                            </li>
-                        </ul>
-                    </li>
-                    </ul>
-                        <!--end navigation menu-->
-                    <div class="buy-menu-btn d-none">
-                        <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary">Buy Now</a>
-                    </div><!--end login button-->
-                </div><!--end navigation-->
-            </div><!--end container-->
-        </header><!--end header-->
-        <!-- Navbar End -->
+        <?php
+        include("navbar.php");
+        ?>
         
         <!-- Hero Start -->
         <section class="bg-half bg-light">
@@ -100,15 +30,15 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="page-next-level">
-                                    <h4 class="title"> MEDICAL BILLING AUTOMATION </h4>
+                                    <h4 class="title"> LEAD GENERATION AUTOMATION </h4>
                                     <ul class="list-unstyled mt-4">
-                                        <li class="list-inline-item h6 date text-muted"> <span class="text-dark">Added :</span> April 3rd, 2019</li>
+                                        <li class="list-inline-item h6 date text-muted"> <span class="text-dark">Added :</span> June 21st, 2019</li>
                                     </ul>
                                     <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
                                         <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
                                         <li><a href="#" class="text-uppercase font-weight-bold text-dark">Cases</a></li>
                                         <li>
-                                            <span class="text-uppercase text-primary font-weight-bold"> Medical Billing Automation </span> 
+                                            <span class="text-uppercase text-primary font-weight-bold"> Marketing - Lead Generation Automation </span> 
                                         </li> 
                                     </ul>
                                 </div>
@@ -137,17 +67,26 @@
                     <div class="col-lg-9">
                         <div class="p-4 shadow rounded border">
                             <h5>Overview :</h5>
-                            <h6>Medical Billing Automation </h6>
-                            <p class="text-muted">The medical billing process, performed by healthcare providers, is a multi-step process that involves the use of medical codes, claim processing with payers, and recovery of out-of-pocket expenses from the patient. It requires the collaboration of both internal and external stakeholders, with the manual collection of data from each stakeholder.</p>
-                            <p class="text-muted">RPA can combine all of the sub-processes performed by each stakeholder into a seamless, centralized process. Medical billing service providers, with the help of RPA, automate the billing process for their healthcare provider customers, which will result in significant time savings</p>
-            
-                            <h5>Medical Billing Automation Benefits:</h5>
-                            <ul class="list-unstyled feature-list text-muted">
-                            
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Claim filing:</strong> Typical claim processing is a time-consuming activity that involves repetitive tasks and gathering of vast amount of data information from different sources. With predetermined rules, RPA can extract structured and unstructured data, update systems and identify exceptions. The automated process reduces average transaction times from 12 to 2 minutes.</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Member enrollment:</strong> The need for healthcare insurance keeps growing every year. Payers have to process a huge influx of new member enrollment requests. It is a manual process that involves a tonne of paper work, the physical movement of paperwork, and tremendous attention to detail through human eyes. RPA can automate the entire process seamlessly, and bring down the processing errors and incomplete applications; subsequently reducing the turnaround of enrollment cycle times.</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Provider network management:</strong> Payers have to spend an equal amount of time and effort in managing the healthcare providers they collaborate with. Bad provider information could impact operational inefficiencies, like low auto-adjudication rates, wasted time and dollars in terms of tracking provider details, etc. These are typically caused due to errors or missing information, like phone numbers/incorrect address in provider records. RPA can reduce the cost of maintaining provider data and improve overall integrity.</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Contract management:</strong> It is not just about adding a new provider or renewing the contract of an existing provider; payers process large volumes of data in both structured and unstructured formats. Search/retrieval, relationship management, and reporting are some of the areas that face challenges due to highly time consuming and error prone manual processes. With OCR (Optical Character Recognition) enabled RPA and IPA (Intelligent Process Automation), process efficiencies can be achieved in these areas.</li>
+                            <h6>Lead Generation Automation </h6>
+                            <p class="text-muted">If you utilize a CRM, chances are you have data management headaches. Even with all the digital bells and whistles, a vendor might sell you, lead gen data flows tend to be a mess of data sources, coming in from an ever-growing array of channels and partners.</p>
+                            <p class="text-muted">Digital robots & automation is a perfect solution to those headaches. We focus on digital robots & automation for good reason. Our bots ability to take on the tedious, manual data plumbing tasks that almost every marketing group has to deal with on a daily basis, is proving to be a world class solution.</p>
+                            <p class="text-muted">Our bots sweet spot is transforming an existing, well-understood process that has repeatable steps for completion.
+
+                            <p class="text-muted"><strong>Here are three typical CRM lead process flows that our bots automate:</strong></p>
+
+                        <ul class="list-unstyled feature-list text-muted">
+                            <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong></strong> Manual data entry into CRM</li>
+                            <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong></strong> Import of a formatted data file into a CRM</li>
+                            <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong></strong> Sending data to a CRM Application Interface</li>
+                        </ul>
+
+                            <h6>Our bots execute the following steps:</h6>
+                            <ul class="list-unstyled feature-list text-muted"></ul>
+                           
+                                <p class="text-muted">Examine identified locations for the new leads. This could be in a designated email box, file drop locations like DropBox, Google Drive, an FTP server, or in a database (online or offline.</p>
+                                <p class="text-muted">Once the new leads are located, the bot could then consolidate and transform the leads into a consistent file format. Any missing or inconsistent data could be flagged and logged for manual review.</p>
+                                <p class="text-muted">Now the bot can get to work and begin executing either: 1) The data entry process directly into the existing CRM system. 2) replicating the steps to import/upload a file.</p>
+
                             </ul>
                             <a href="page-contact-three.html" class="btn btn-primary">Get Started</a>
                         </div>

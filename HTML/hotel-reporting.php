@@ -1,9 +1,11 @@
 
 <!DOCTYPE html>
     <html lang="en">
-    <?php
-    include("head.php");
-    ?>
+
+        <?php
+        include("head.php");
+        ?>
+
     <body>
         <!-- Loader -->
         <div id="preloader">
@@ -28,15 +30,15 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="page-next-level">
-                                    <h4 class="title"> CARRIER TRACKING AUTOMATION </h4>
+                                    <h4 class="title"> HOSPITALITY REPORTING AUTOMATION </h4>
                                     <ul class="list-unstyled mt-4">
-                                        <li class="list-inline-item h6 date text-muted"> <span class="text-dark">Added :</span> April 28th, 2019</li>
+                                        <li class="list-inline-item h6 date text-muted"> <span class="text-dark">Added :</span> June 21st, 2019</li>
                                     </ul>
                                     <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
                                         <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
                                         <li><a href="#" class="text-uppercase font-weight-bold text-dark">Cases</a></li>
                                         <li>
-                                            <span class="text-uppercase text-primary font-weight-bold"> Carrier Tracking Automation </span> 
+                                            <span class="text-uppercase text-primary font-weight-bold"> Hospitality Reporting Automation </span> 
                                         </li> 
                                     </ul>
                                 </div>
@@ -65,18 +67,23 @@
                     <div class="col-lg-9">
                         <div class="p-4 shadow rounded border">
                             <h5>Overview :</h5>
-                            <h6>Business Automation + Digital Robots + Carrier Tracking Automation</h6>
-                            <p class="text-muted">The robot downloads the carrier tracking excel file from shared network location to local folder. The excel file contains Tracking No, Customer information and Carrier tracking number. </p>
-                            <p class="text-muted">After saving the file in local folder, the robot reads all recodes from excel file, on the basis of carrier name, then it gets the tracking portal URL from configured mapping file. It opens the website and tracks the item by entering the tracking number. It fetches expected delivery date & trailer number, logs it in an excel file and notifies the customer by email.</p>
-            
-                            <h5>Carrier Tracking Automation Benefits:</h5>
-                            <ul class="list-unstyled feature-list text-muted">
+                            <h6>Lead Generation Automation </h6>
+                            <p class="text-muted">One of the largest hotel companies worldwide and the leader within their market, with more than 380 hotels throughout more than 40 countries and four continents. The strategic focus on international growth has allowed them to be the first hotel company in it’s local with presence in key markets such as China, the Arabian Gulf and the US, as well as maintaining its leadership in traditional markets such as Europe, Latin America or the Caribbean</p>
+
+                            <h5>Challenge:</h5>
+                            <p class="text-muted">With an aggressive growth plan in a new market, coupled with the need to provide greater operational visibility to Hotel Operations Managers, the Finance Management department determined that they needed a cost-effective and efficient way to deliver accurate, daily and timely management reporting to each Hotel Operator in order to help them manage their business operations more proactively and achieve their financial goals.</p>
+                            <p class="text-muted">If done manually, the creation of these daily reports would be very time-consuming and prone to errors as it would require the compilation and analysis of data from multiple sources and systems (6 different reports from each POS system at each hotel location).</p>
+                            <p class="text-muted">Since the company did not want to heavily invest in an expensive Business Intelligence IT initiative, they had initially considered outsourcing the preparation of these reports to an offshore provider in a different time zone so they could have the reports readily available by 9:00 am local time.</p>
                             
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Claim filing:</strong> Typical claim processing is a time-consuming activity that involves repetitive tasks and gathering of vast amount of data information from different sources. With predetermined rules, RPA can extract structured and unstructured data, update systems and identify exceptions. The automated process reduces average transaction times from 12 to 2 minutes.</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Member enrollment:</strong> The need for healthcare insurance keeps growing every year. Payers have to process a huge influx of new member enrollment requests. It is a manual process that involves a tonne of paper work, the physical movement of paperwork, and tremendous attention to detail through human eyes. RPA can automate the entire process seamlessly, and bring down the processing errors and incomplete applications; subsequently reducing the turnaround of enrollment cycle times.</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Provider network management:</strong> Payers have to spend an equal amount of time and effort in managing the healthcare providers they collaborate with. Bad provider information could impact operational inefficiencies, like low auto-adjudication rates, wasted time and dollars in terms of tracking provider details, etc. These are typically caused due to errors or missing information, like phone numbers/incorrect address in provider records. RPA can reduce the cost of maintaining provider data and improve overall integrity.</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i><strong>Contract management:</strong> It is not just about adding a new provider or renewing the contract of an existing provider; payers process large volumes of data in both structured and unstructured formats. Search/retrieval, relationship management, and reporting are some of the areas that face challenges due to highly time consuming and error prone manual processes. With OCR (Optical Character Recognition) enabled RPA and IPA (Intelligent Process Automation), process efficiencies can be achieved in these areas.</li>
+                            <h5>Solution:</h5>
+                            <p class="text-muted">Digital robotics & automation was used in the creation and distribution of these daily reports. The daily report includes multiple relevant performance metrics such as revenue vs. forecast, no shows, occupancy, average night spend, etc.</p>
+                            <p class="text-muted">And of course, it was issued daily by 9:00 am each morning.</p>
+
+                            <h5>Results:</h5>
+                            <p class="text-muted">The process was successfully automated within the estimated 8-week timeframe for the first wave of five (5) hotel locations that were included in the Proof of Concept (POC). Given the great success, they are now in the process of rolling out this report to all of the hotels globally.</p>
+                            
                             </ul>
+                            
                             <a href="page-contact-three.html" class="btn btn-primary">Get Started</a>
                         </div>
                     </div><!--end col-->

@@ -2,23 +2,9 @@
 <!DOCTYPE html>
     <html lang="en">
 
-    <head>
-        <meta charset="utf-8" />
-        <title>FlexBot - Saas & Software Landing Page Template</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Premium Bootstrap 4 Landing Page Template" />
-        <meta name="keywords" content="bootstrap 4, premium, marketing, multipurpose" />
-        <meta content="Shreethemes" name="author" />
-        <!-- favicon -->
-        <link rel="shortcut icon" href="images/favicon.ico">
-        <!-- Bootstrap -->
-        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <!-- Icons -->
-        <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
-        <!-- Main css --> 
-        <link href="css/style.css" rel="stylesheet" type="text/css" />
-
-    </head>
+    <?php
+    include("head.php");
+    ?>
 
     <body>
         <!-- Loader -->
@@ -32,65 +18,9 @@
         </div>
         <!-- Loader -->
         
-        <!-- Navbar STart -->
-        <header id="topnav" class="defaultscroll sticky">
-            <div class="container">
-                <!-- Logo container-->
-                <div>
-                    <a class="logo" href="index.html">FlexBot<span class="text-primary">.</span></a>
-                </div>                 
-                <div class="buy-button">
-                    <a href="https://app.bflexd.com/" class="btn btn-primary mt-2 mr-2">Sign Up</a>
-                </div><!--end login button-->
-                <!-- End Logo container-->
-                <div class="menu-extras">
-                    <div class="menu-item">
-                        <!-- Mobile menu toggle-->
-                        <a class="navbar-toggle">
-                            <div class="lines">
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                            </div>
-                        </a>
-                        <!-- End mobile menu toggle-->
-                    </div>
-                </div>
-        
-                <div id="navigation">
-                    <!-- Navigation Menu-->   
-                    <ul class="navigation-menu">
-                        <li><a href="page-pricing.html">Pricing</a></li>
-                        <li class="has-submenu">
-                            <a href="posts.html">Cases</a><span class="menu-arrow"></span>
-                            <ul class="submenu megamenu">
-                                <li>
-                                    <ul>
-                                        <li><a href="index-job.html">Healthcare </a></li>
-                                        <li><a href="index-customer.html">Financial <span class="badge badge-primary rounded ml-2"> New </span> </a></li>
-                                        <li><a href="index-onepage.html">Retail </a></li>
-                                        <li><a href="index-rtl.html">Hospitality </a></li>
-                                    </ul>
-                                </li>   
-                            </ul>
-                        </li>
-                            <li class="has-submenu">
-                                <a href="partners.html">Partners</a>
-                            </li>
-                            <li class="has-submenu">
-                                <a href="page-contact-three.html">Contact</a>
-                            </li>
-                        </ul>
-                    </li>
-                    </ul>
-                        <!--end navigation menu-->
-                    <div class="buy-menu-btn d-none">
-                        <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary">Buy Now</a>
-                    </div><!--end login button-->
-                </div><!--end navigation-->
-            </div><!--end container-->
-        </header><!--end header-->
-        <!-- Navbar End -->
+    <?php
+    include("navbar.php");
+    ?>
         
         <!-- Hero Start -->
         <section class="bg-half bg-light">
@@ -100,15 +30,15 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="page-next-level">
-                                    <h4 class="title"> JOURNAL ENTRY AUTOMATION & RETAINED EARNING (JERE)</h4>
+                                    <h4 class="title"> Email Automation Invoice Processing </h4>
                                     <ul class="list-unstyled mt-4">
-                                        <li class="list-inline-item h6 date text-muted"> <span class="text-dark">Added :</span> Feburary 8th, 2019</li>
+                                        <li class="list-inline-item h6 date text-muted"> <span class="text-dark">Added :</span> March 11th, 2019</li>
                                     </ul>
                                     <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
                                         <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
                                         <li><a href="#" class="text-uppercase font-weight-bold text-dark">Cases</a></li>
                                         <li>
-                                            <span class="text-uppercase text-primary font-weight-bold"> Journal Entry Automation </span> 
+                                            <span class="text-uppercase text-primary font-weight-bold"> Invoices </span> 
                                         </li> 
                                     </ul>
                                 </div>
@@ -137,9 +67,9 @@
                     <div class="col-lg-9">
                         <div class="p-4 shadow rounded border">
                             <h5>Overview :</h5>
-                            <h6>Business Automation + Digital Robots + Journal Entry Automation </h6>
-                            <p class="text-muted">Journal Entry Automation: Automated the process to fetch debit and credit detail from SAP by executing particular transaction code for predefined company code. Then updating those details in predefined excel and generating a text file by executing inbuilt macro of excel template. Then the bot goes to WPA site and navigates to a particular company code to upload the text file.</p>
-                            <p class="text-muted">After uploading the text file, the robot executes same transaction code for same company code in SAP and checks for the available value. The bot takes the screen shot of the current SAP screen, pastes it into excel, and generate a PDF file. Lastly, it then goes to the WPA site again and uploads the PDF file. On successful completion of process, the robot sends a email to the designated/specified business users.</p>
+                            <h6>Business Automation + Digital Robots + Email Automation </h6>
+                            <p class="text-muted">Email Automation Handling of Invoices: User receives an invoice email with PDF attachment in a particular outlook email inbox. The robot reads an email and downloads the attachment (PDF file) in a local folder after saving.</p>
+                            <p class="text-muted">Then it opens the downloaded PDF file, reads the details like Invoice No, Invoice Date, Invoice amount and PO no. The robot opens SAP application and searches the invoice detail based on PO No, Invoice No, Invoice Date or Amount. It fetches all required details, takes a screen shot and replies to sender along with details and screenshot</p>
                             
                             <h5>Key Operational Metric Improvements :</h5>
                             <ul class="list-unstyled feature-list text-muted">
