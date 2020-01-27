@@ -2,25 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="utf-8" />
-    <title>FlexBot - Robotic Process Automation for Businesses</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Premium Bootstrap 4 Landing Page Template" />
-    <meta name="keywords" content="bootstrap 4, premium, marketing, multipurpose" />
-    <meta content="Shreethemes" name="author" />
-    <!-- favicon -->
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <!-- Magnific -->
-    <link href="css/magnific-popup.css" rel="stylesheet" type="text/css" />
-    <!-- Icons -->
-    <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
-    <!-- Main css -->
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
-
-</head>
+    <?php
+    include("head.php");
+    ?>
 
 <body>
     <!-- Loader -->
@@ -34,65 +18,9 @@
     </div>
     <!-- Loader -->
 
-    <!-- Navbar STart -->
-    <header id="topnav" class="defaultscroll sticky">
-        <div class="container">
-            <!-- Logo container-->
-            <div>
-                <a class="logo" href="index.html">FlexBot<span class="text-primary">.</span></a>
-            </div>                 
-            <div class="buy-button">
-                <a href="https://app.bflexd.com/" class="btn btn-primary mt-2 mr-2">Sign Up</a>
-            </div><!--end login button-->
-            <!-- End Logo container-->
-            <div class="menu-extras">
-                <div class="menu-item">
-                    <!-- Mobile menu toggle-->
-                    <a class="navbar-toggle">
-                        <div class="lines">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </div>
-                    </a>
-                    <!-- End mobile menu toggle-->
-                </div>
-            </div>
-    
-            <div id="navigation">
-                <!-- Navigation Menu-->   
-                <ul class="navigation-menu">
-                    <li><a href="page-pricing.html">Pricing</a></li>
-                    <li class="has-submenu">
-                        <a href="posts.html">Cases</a><span class="menu-arrow"></span>
-                        <ul class="submenu megamenu">
-                            <li>
-                                <ul>
-                                    <li><a href="index-job.html">Healthcare </a></li>
-                                    <li><a href="index-customer.html">Financial <span class="badge badge-primary rounded ml-2"> New </span> </a></li>
-                                    <li><a href="index-onepage.html">Retail </a></li>
-                                    <li><a href="index-rtl.html">Hospitality </a></li>
-                                </ul>
-                            </li>   
-                        </ul>
-                    </li>
-                        <li class="has-submenu">
-                            <a href="partners.html">Partners</a>
-                        </li>
-                        <li class="has-submenu">
-                            <a href="page-contact-three.html">Contact</a>
-                        </li>
-                    </ul>
-                </li>
-                </ul>
-                    <!--end navigation menu-->
-                <div class="buy-menu-btn d-none">
-                    <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary">Buy Now</a>
-                </div><!--end login button-->
-            </div><!--end navigation-->
-        </div><!--end container-->
-    </header><!--end header-->
-    <!-- Navbar End -->
+    <?php
+    include("navbar.php");
+    ?>
     
     <!-- Hero Start -->
     <section class="bg-half bg-light" style="background: url('images/contact-detail.jpg') center center;">
