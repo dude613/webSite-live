@@ -60,12 +60,15 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 text-center">
+                        
                         <h1>Partner Overview</h1>
-                        <p class="text-muted h5 font-weight-normal">Partner with <span class="text-primary font-weight-bold">FlexBot </span>and increase your firm's bottom line</p>
+                        <p class="text-muted h5 font-weight-normal">Partner with <span class="text-primary font-weight-bold">FlexBot </span>and add quality recurring revenue to your firm's bottom line</p>
+                        
                         <h3 class="mt-4 pt-2">Products & Software</h3>
-                        <p class="text-muted">Provide, advise, & implement our software to <code class="text-primary font-weight-bold">your clients.</code> We offer a bespoke<code class="text-danger font-weight-bold"> white label</code> solution for your organization.</p>
+                        <p class="text-muted">Provide, advise, & implement our software to <code class="text-primary font-weight-bold">your clients & customers.</code> We offer a bespoke<code class="text-danger font-weight-bold"> white label</code> solution for your organization.</p>
                         <code class="text-success rounded p-2 bg-dark font-weight-bold">> Long Term Advisory & Management Revenue Split</code> 
                         <code class="text-success rounded p-2 bg-dark font-weight-bold">> Premier 24/7 Partner Support</code> 
+                    
                     </div>
                 </div>
             </div> 

@@ -3,10 +3,10 @@
             <div class="container">
                 <!-- Logo container-->
                 <div>
-                    <a class="logo" href="index.html">FlexBot<span class="text-primary">.</span></a>
+                    <a class="logo" href="index.php">FlexBot<span class="text-primary">.</span></a>
                 </div>                 
                 <div class="buy-button">
-                    <a href="https://app.bflexd.com/" class="btn btn-outline-primary mt-2 mr-2">Contact Sales</a>
+                    <a href="contact.php" class="btn btn-outline-primary mt-2 mr-2">Contact Sales</a>
                 </div><!--end login button-->
                 <!-- End Logo container-->
                 <div class="menu-extras">
