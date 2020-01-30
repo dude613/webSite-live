@@ -3,7 +3,7 @@
             <div class="container">
                 <!-- Logo container-->
                 <div>
-                    <a class="logo" href="index.php">FlexBot<span class="text-primary">.</span></a>
+                    <a class="logo" href="index.php">FlexBot</a>
                 </div>                 
                 <div class="buy-button">
                     <a href="contact.php" class="btn btn-outline-primary mt-2 mr-2">Contact Sales</a>
