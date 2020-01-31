@@ -236,8 +236,8 @@
                                 </div>
                             </div>
                             <div class="author">
-                                <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
+                                <small class="text-light user d-block"><i class="mdi mdi-account"></i> FlexBot</small>
+                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> Feburary 21st, 2019</small>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -255,8 +255,8 @@
                                 </div>
                             </div>
                             <div class="author">
-                                <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
+                                <small class="text-light user d-block"><i class="mdi mdi-account"></i> FlexBot</small>
+                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> August 13th, 2019</small>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -274,8 +274,8 @@
                                 </div>
                             </div>
                             <div class="author">
-                                <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
+                                <small class="text-light user d-block"><i class="mdi mdi-account"></i> FlexBot</small>
+                                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> June 18th, 2019</small>
                             </div>
                         </div>
                     </div><!--end col-->
