@@ -32,11 +32,11 @@
                             <ul class="submenu megamenu">
                                 <li>
                                     <ul>
-                                        <li><a href="index-job.html">Healthcare </a></li>
-                                        <li><a href="index-customer.html">Financial <span class="badge badge-primary rounded ml-2"> New </span> </a></li>
-                                        <li><a href="index-onepage.html">Retail </a></li>
-                                        <li><a href="index-rtl.html">Hospitality </a></li>
-                                        <li><a href="index-rtl.html">See All </a></li>
+                                        <li><a href="healthcare-automation.php">Healthcare </a></li>
+                                        <li><a href="invoice.php">Accounts Payable <span class="badge badge-primary rounded ml-2"> New </span> </a></li>
+                                        <li><a href="medical-billing.php">Medical Billing </a></li>
+                                        <li><a href="hotel-reporting.php">Hospitality Reporting</a></li>
+                                        <!--<li><a href="index-rtl.html">See All </a></li>-->
                                     </ul>
                                 </li>   
                             </ul>
