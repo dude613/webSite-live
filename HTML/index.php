@@ -225,11 +225,11 @@
                     <div class="col-lg-4 col-md-6 mt-4 pt-2">
                         <div class="blog position-relative overflow-hidden shadow rounded">
                             <div class="position-relative">
-                                <img src="images/blog/01.jpg" class="img-fluid rounded-top" alt="">
+                                <img src="images/blog/process automation 1.jpg" class="img-fluid rounded-top" alt="">
                                 <div class="overlay rounded-top bg-dark"></div>
                             </div>
                             <div class="content p-4">
-                                <h4><a href="javascript:void(0)" class="title text-dark">Design your apps in your own way</a></h4>
+                                <h4><a href="javascript:void(0)" class="title text-dark">Steps to Implementing RPA</a></h4>
                                 <div class="post-meta mt-3">
                                     <a href="javascript:void(0)" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
                                 </div>
@@ -243,11 +243,11 @@
                     <div class="col-lg-4 col-md-6 mt-4 pt-2">
                         <div class="blog position-relative overflow-hidden shadow rounded">
                             <div class="position-relative">
-                                <img src="images/blog/02.jpg" class="img-fluid rounded-top" alt="">
+                                <img src="images/blog/process automation 2.jpg" class="img-fluid rounded-top" alt="">
                                 <div class="overlay rounded-top bg-dark"></div>
                             </div>
                             <div class="content p-4">
-                                <h4><a href="javascript:void(0)" class="title text-dark">How apps is changing the IT world</a></h4>
+                                <h4><a href="javascript:void(0)" class="title text-dark">Automating Accounts Payable</a></h4>
                                 <div class="post-meta mt-3">
                                     <a href="javascript:void(0)" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
                                 </div>
@@ -261,11 +261,11 @@
                     <div class="col-lg-4 col-md-6 mt-4 pt-2">
                         <div class="blog position-relative overflow-hidden shadow rounded">
                             <div class="position-relative">
-                                <img src="images/blog/03.jpg" class="img-fluid rounded-top" alt="">
+                                <img src="images/blog/process automation 3.jpg" class="img-fluid rounded-top" alt="">
                                 <div class="overlay rounded-top bg-dark"></div>
                             </div>
                             <div class="content p-4">
-                                <h4><a href="javascript:void(0)" class="title text-dark">Smartest Applications for Business</a></h4>
+                                <h4><a href="javascript:void(0)" class="title text-dark">2019 Process Automation Explosion</a></h4>
                                 <div class="post-meta mt-3">
                                     <a href="javascript:void(0)" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
                                 </div>
