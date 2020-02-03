@@ -6,7 +6,7 @@
                     <a class="logo" href="index.php">FlexBot</a>
                 </div>                 
                 <div class="buy-button">
-                    <a href="contact.php" class="btn btn-outline-primary mt-2 mr-2">Contact Sales</a>
+                    <a href="register.php" class="btn btn-outline-primary mt-2 mr-2">Contact Sales</a>
                 </div><!--end login button-->
                 <!-- End Logo container-->
                 <div class="menu-extras">
@@ -52,7 +52,7 @@
                     </ul>
                         <!--end navigation menu-->
                     <div class="buy-menu-btn d-none">
-                        <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary">Buy Now</a>
+                        <a href="register.php" target="_blank" class="btn btn-primary">Sign Up</a>
                     </div><!--end login button-->
                 </div><!--end navigation-->
             </div><!--end container-->
