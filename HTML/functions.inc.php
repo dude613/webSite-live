@@ -2,8 +2,8 @@
 
 $hostname_dbsmart="localhost";
 $database_dbsmart= "c396form1";
-$username_dbsmart = "root";
-$password_dbsmart = "";
+$username_dbsmart = "c396usr_ap_db";
+$password_dbsmart = "amo3622014";
 $dbsmart = mysqli_connect($hostname_dbsmart, $username_dbsmart, $password_dbsmart) or trigger_error(mysqli_error($dbsmart),E_USER_ERROR);
 
 if (!function_exists("GetSQLValueString")) {
@@ -13,10 +13,10 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
     $theValue = get_magic_quotes_gpc() ? stripslashes($theValue) : $theValue;
   }
   
-  $hostname_dbsmart4 = "localhost";
+$hostname_dbsmart4 = "localhost";
 $database_dbsmart41 = "c396form1";
-$username_dbsmart4 = "root";
-$password_dbsmart4 = "";
+$username_dbsmart4 = "c396usr_ap_db";
+$password_dbsmart4 = "amo3622014";
 $dbsmart4 = mysqli_connect($hostname_dbsmart4, $username_dbsmart4, $password_dbsmart4) or trigger_error(mysqli_error($dbsmart4),E_USER_ERROR);
 
   $theValue = function_exists("mysqli_real_escape_string") ? mysqli_real_escape_string($dbsmart4, $theValue) : mysqli_escape_string($dbsmart, $theValue);

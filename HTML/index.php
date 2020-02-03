@@ -221,7 +221,6 @@
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
-
                 <div class="row">
                     <div class="col-lg-4 col-md-6 mt-4 pt-2">
                         <div class="blog position-relative overflow-hidden shadow rounded">
@@ -241,7 +240,6 @@
                             </div>
                         </div>
                     </div><!--end col-->
-                    
                     <div class="col-lg-4 col-md-6 mt-4 pt-2">
                         <div class="blog position-relative overflow-hidden shadow rounded">
                             <div class="position-relative">
@@ -260,7 +258,6 @@
                             </div>
                         </div>
                     </div><!--end col-->
-                    
                     <div class="col-lg-4 col-md-6 mt-4 pt-2">
                         <div class="blog position-relative overflow-hidden shadow rounded">
                             <div class="position-relative">
