@@ -16,7 +16,7 @@ if( isset($_POST['fname'])  &&  isset($_POST['email'])  && isset($_POST['company
 	
 	
 		  if ((!empty($_POST["email"])) && !filter_var(test_input($_POST['email']), FILTER_VALIDATE_EMAIL)) {
-  $errmsg = $errmsg." Invalid email format<br />"; 
+  $errmsg = $errmsg." Invalid Email Format<br />"; 
   $errcode=112;
 }
 
@@ -117,7 +117,7 @@ $msgid=22;
 $cc=NULL;
 
 
-$success=  $success."Registration Successfully"; 
+$success=  $success."Registration Successful"; 
 
   //$succode=211; $sucmsg="New User ".strtoupper(test_input($_POST['fname']))." ".strtoupper(test_input($_POST['lname']))." created";
 
