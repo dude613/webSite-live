@@ -138,8 +138,8 @@
                             <div class="section-title">
                                 <h4 class="title text-white mb-4">Empower Your Employees & Improve Operations</h4>
                                 <p class="text-light para-desc mx-auto">Implementing FlexBot will have an immediate positive effect on your organization's efficiency.</p>
-                                <a href="http://vimeo.com/287684225" class="play-btn border mt-2 video-play-icon">
-                                    <i class="mdi mdi-play text-white"></i>
+                                <!--<a href="http://vimeo.com/287684225" class="play-btn border mt-2 video-play-icon">
+                                    <i class="mdi mdi-play text-white"></i>-->
                                 </a>
                             </div>
                         </div><!--end col-->
