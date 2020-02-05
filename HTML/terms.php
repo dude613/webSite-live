@@ -3,8 +3,8 @@
     <html lang="en">
 
     <?php
-    include("head.php");    
-    ?>
+        include("head.php");
+        ?>
 
     <body>
         <!-- Loader -->
@@ -19,7 +19,7 @@
         <!-- Loader -->
         
         <?php
-        include("navbar.php");    
+        include("navbar.php");
         ?>
         
         <!-- Hero Start -->
@@ -30,16 +30,13 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="page-next-level">
-                                    <h4 class="title"> Privacy Policy </h4>
-                                    <ul class="list-unstyled mt-4">
-                                        <li class="list-inline-item h6 date text-muted"> <span class="text-dark">Last Revised :</span> 23th Sep, 2019</li>
-                                    </ul>
+                                    <h4 class="title"> Terms of Services </h4>
                                     <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
                                         <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
                                         <li><a href="#" class="text-uppercase font-weight-bold text-dark">Pages</a></li> 
                                         <li><a href="#" class="text-uppercase font-weight-bold text-dark">Utility</a></li> 
                                         <li>
-                                            <span class="text-uppercase text-primary font-weight-bold"> Privacy Policy </span> 
+                                            <span class="text-uppercase text-primary font-weight-bold"> Terms of Services </span> 
                                         </li> 
                                     </ul>
                                 </div>
@@ -49,7 +46,7 @@
                 </div>
             </div>
         </section><!--end section-->
-        <!-- Hero End -->   
+        <!-- Hero End -->
 
         <!-- Shape Start -->
         <div class="position-relative">
@@ -59,20 +56,24 @@
                 </svg>
             </div>
         </div>
-        <!--Shape End-->
+        <!--Shape End-->  
         
-        <!-- Start Privacy -->
+        <!-- Start Terms & Conditions -->
         <section class="section">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-9">
-                        <div class="p-4 shadow rounded border">
-                            <h5>Overview :</h5>
+                        <div class="p-4 shadow border rounded">
+                            <h5>Introduction :</h5>
                             <p class="text-muted">It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. One may speculate that over the course of time certain letters were added or deleted at various positions within the text.</p>
-                            <p class="text-muted">In the 1960s, the text suddenly became known beyond the professional circle of typesetters and layout designers when it was used for Letraset sheets (adhesive letters on transparent film, popular until the 1980s) Versions of the text were subsequently included in DTP programmes such as PageMaker etc.</p>
-                            <p class="text-muted">There is now an abundance of readable dummy texts. These are usually used when a text is required purely to fill a space. These alternatives to the classic Lorem Ipsum texts are often amusing and tell short, funny or nonsensical stories.</p>
-                        
-                            <h5>We use your information to :</h5>
+
+                            <h5>User Agreements :</h5>
+                            <p class="text-muted">The most well-known dummy text is the 'Lorem Ipsum', which is said to have <b class="text-danger">originated</b> in the 16th century. Lorem Ipsum is <b class="text-danger">composed</b> in a pseudo-Latin language which more or less <b class="text-danger">corresponds</b> to 'proper' Latin. It contains a series of real Latin words. This ancient dummy text is also <b class="text-danger">incomprehensible</b>, but it imitates the rhythm of most European languages in Latin script. The <b class="text-danger">advantage</b> of its Latin origin and the relative <b class="text-danger">meaninglessness</b> of Lorum Ipsum is that the text does not attract attention to itself or distract the viewer's <b class="text-danger">attention</b> from the layout.</p>
+                            <p class="text-muted">There is now an <b class="text-danger">abundance</b> of readable dummy texts. These are usually used when a text is <b class="text-danger">required purely</b> to fill a space. These alternatives to the classic Lorem Ipsum texts are often amusing and tell short, funny or <b class="text-danger">nonsensical</b> stories.</p>
+                            <p class="text-muted">It seems that only <b class="text-danger">fragments</b> of the original text remain in the Lorem Ipsum texts used today. One may speculate that over the course of time certain letters were added or deleted at various positions within the text.</p>
+                            
+                            <h5>Restrictions :</h5>
+                            <p class="text-muted">You are specifically restricted from all of the following :</p>
                             <ul class="list-unstyled feature-list text-muted">
                                 <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Digital Marketing Solutions for Tomorrow</li>
                                 <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Our Talented & Experienced Marketing Agency</li>
@@ -82,24 +83,94 @@
                                 <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Create your own skin to match your brand</li>
                             </ul>
 
-                            <h5>Information Provided Voluntarily :</h5>
-                            <p class="text-muted">In the 1960s, the text suddenly became known beyond the professional circle of typesetters and layout designers when it was used for Letraset sheets (adhesive letters on transparent film, popular until the 1980s) Versions of the text were subsequently included in DTP programmes such as PageMaker etc.</p>
+                            <h5>Users Question & Answer :</h5>
+                            <div class="faq-content mt-4">
+                                <div class="accordion" id="accordionExample">
+                                    <div class="card border rounded shadow mb-2">
+                                        <a data-toggle="collapse" href="#collapseOne" class="faq position-relative" aria-expanded="true" aria-controls="collapseOne">
+                                            <div class="card-header bg-light p-3" id="headingOne">
+                                                <h4 class="title mb-0 faq-question"> Dummy text is text that is used in the publishing industry ? </h4>
+                                            </div>
+                                        </a>
+                                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+    
+                                    <div class="card border rounded shadow mb-2">
+                                        <a data-toggle="collapse" href="#collapseTwo" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapseTwo">
+                                            <div class="card-header bg-light p-3" id="headingTwo">
+                                                <h4 class="title mb-0 faq-question"> Web designers to occupy the space which will later be filled ? </h4>
+                                            </div>
+                                        </a>
+                                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+    
+                                    <div class="card border rounded shadow mb-2">
+                                        <a data-toggle="collapse" href="#collapseThree" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapseThree">
+                                            <div class="card-header bg-light p-3" id="headingfive">
+                                                <h4 class="title mb-0 faq-question"> This is required when, for example, the final text is not yet available ? </h4>
+                                            </div>
+                                        </a>
+                                        <div id="collapseThree" class="collapse" aria-labelledby="headingfive" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                            </div>
+                                        </div>
+                                    </div>
 
-                            <a href="javascript:void(0)" class="btn btn-primary">Print</a>
+                                    <div class="card border rounded shadow mb-2">
+                                        <a data-toggle="collapse" href="#collapseFour" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapseFour">
+                                            <div class="card-header bg-light p-3" id="headingTwo">
+                                                <h4 class="title mb-0 faq-question"> The most well-known dummy text is the 'Lorem Ipsum', which is said ? </h4>
+                                            </div>
+                                        </a>
+                                        <div id="collapseFour" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+    
+                                    <div class="card rounded shadow mb-0">
+                                        <a data-toggle="collapse" href="#collapsefive" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapsefive">
+                                            <div class="card-header bg-light p-3" id="headingfive">
+                                                <h4 class="title mb-0 faq-question"> Lorem Ipsum is composed in a pseudo-Latin language ? </h4>
+                                            </div>
+                                        </a>
+                                        <div id="collapsefive" class="collapse" aria-labelledby="headingfive" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="mt-3">
+                                <a href="javascript:void(0)" class="btn btn-primary mt-2 mr-2">Accept</a>
+                                <a href="javascript:void(0)" class="btn btn-outline-primary mt-2">Decline</a>
+                            </div>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
             </div><!--end container-->
         </section><!--end section-->
-        <!-- End Privacy -->
+        <!-- End Terms & Conditions -->
 
         <!-- Footer Start -->
         <footer class="footer">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
-                        <a class="logo-footer" href="#">FlexBot<span class="text-primary">.</span></a>
-                        <p class="mt-4">Start working with FlexBot that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                        <a class="logo-footer" href="#">Landrick<span class="text-primary">.</span></a>
+                        <p class="mt-4">Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.</p>
                         <ul class="list-unstyled social-icon social mb-0 mt-4">
                             <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-facebook" title="Facebook"></i></a></li>
                             <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-instagram" title="Instagram"></i></a></li>
@@ -159,7 +230,7 @@
                 <div class="row align-items-center">
                     <div class="col-sm-6">
                         <div class="text-sm-left">
-                            <p class="mb-0">© 2019-20 FlexBot. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="http://www.shreethemes.in/" target="_blank" class="text-success">Shreethemes</a>.</p>
+                            <p class="mb-0">© 2019-20 Landrick. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="http://www.shreethemes.in/" target="_blank" class="text-success">Shreethemes</a>.</p>
                         </div>
                     </div>
 
