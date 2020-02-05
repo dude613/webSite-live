@@ -66,17 +66,6 @@
         <div class="row justify-content-center">
         <div class="col-lg-9">
         <div class="p-4 shadow rounded border">
-        <h5>Overview :</h5>
-        <p class="text-muted">It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. One may speculate that over the course of time certain letters were added or deleted at various positions within the text.</p>
-        <h5>&nbsp;</h5>
-        <ul class="list-unstyled feature-list text-muted">
-        <li>Digital Marketing Solutions for Tomorrow</li>
-        <li>Our Talented &amp; Experienced Marketing Agency</li>
-        <li>Create your own skin to match your brand</li>
-        <li>Digital Marketing Solutions for Tomorrow</li>
-        <li>Our Talented &amp; Experienced Marketing Agency</li>
-        <li>Create your own skin to match your brand</li>
-        </ul>
         <h5>Information Provided Voluntarily :</h5>
         <div class="page loaded">
         <div class="GridContainer-dWwmRy jAiyOC">
@@ -410,7 +399,7 @@
         </div>
         </div>
         </div>
-        <a class="btn btn-primary">Print</a></div>
+        </div> <button onClick ="window.print()" class="btn btn-primary">Print</button>
         </div>
         <!--end col--></div>
         <!--end row--></div>
