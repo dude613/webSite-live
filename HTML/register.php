@@ -9,7 +9,7 @@ if( isset($_POST['fname'])  &&  isset($_POST['email'])  && isset($_POST['company
 	
 
 	 if (empty($_POST["email"])) {
-			$errmsg = errmsg." Email: Required <br />";
+			$errmsg = " Valid Email Required <br />";
 			$errcode=112;
 			
 		  }
@@ -21,19 +21,19 @@ if( isset($_POST['fname'])  &&  isset($_POST['email'])  && isset($_POST['company
 }
 
 if (empty($_POST["fname"])) {
-			$errmsg = errmsg." First Name: Required <br />";
+			$errmsg = " We just need to know what to call you. <br />";
 			$errcode=112;
 			
 		  }
 		  
 		  if (empty($_POST["lname"])) {
-			$errmsg = errmsg." Last Name: Required <br />";
+			$errmsg = " You gave us a good first name, do the same :) <br />";
 			$errcode=112;
 			
 		  }
 		  
 		   if (empty($_POST["company"])) {
-			$errmsg = errmsg." Company: Required <br />";
+			$errmsg = " Valid organization required <br />";
 			$errcode=112;
 			
 		  }
@@ -74,7 +74,7 @@ $mail = new PHPMailer;
 	$mail->Password = 'amo3622014';
 	$mail->From = 'avi@bflexd.com';
 
-$mail->FromName = 'BFLEXD';
+$mail->FromName = 'FlexBot';
 
 $mail->addAddress('info@bflexd.com','User Registration');
 //$mail->addCC('support@beastexchange.com','Beast Exchange Support');
@@ -117,8 +117,8 @@ $msgid=22;
 $cc=NULL;
 
 
-$success=  $success."Registration Successful"; 
-
+$success=  $success."Registration Successful";
+    
   //$succode=211; $sucmsg="New User ".strtoupper(test_input($_POST['fname']))." ".strtoupper(test_input($_POST['lname']))." created";
 
   $_POST=array();
@@ -162,7 +162,7 @@ p {
 
 #heading {
     text-transform: uppercase;
-    color: #673AB7;
+    color: #2443AC;
     font-weight: normal
 }
 
@@ -260,7 +260,7 @@ p {
 
 .fs-title {
     font-size: 25px;
-    color: #673AB7;
+    color: #2443AC;
     margin-bottom: 15px;
     font-weight: normal;
     text-align: left
@@ -291,7 +291,7 @@ p {
 }
 
 #progressbar .active {
-    color: #673AB7
+    color: #2443AC
 }
 
 #progressbar li {
@@ -349,7 +349,7 @@ p {
 
 #progressbar li.active:before,
 #progressbar li.active:after {
-    background: #673AB7
+    background: #2443AC
 }
 
 .progress {
@@ -357,7 +357,7 @@ p {
 }
 
 .progress-bar {
-    background-color: #1360EF
+    background-color: #2443AC
 }
 
 .fit-image {
@@ -373,8 +373,8 @@ p {
     <div class="row justify-content-center">
         <div class="col-11 col-sm-9 col-md-7 col-lg-6 col-xl-5 text-center p-0 mt-3 mb-2">
             <div class="card px-0 pt-4 pb-0 mt-3 mb-3">
-                <h2 id="heading">Sign Up Your User Account</h2>
-                <p>Fill all form field to go to next step</p>
+                <h2 id="heading">Get Access to FlexBot</h2>
+                <p>Four Simple Steps Until #digitalRobots</p>
 				
 				  <?php if(isset($success)){ ?>
 						
@@ -412,7 +412,7 @@ p {
                                     <h2 class="fs-title">Account Information:</h2>
                                 </div>
                                 <div class="col-5">
-                                    <h2 class="steps">Step 1 - 4</h2>
+                                    <h2 class="steps">1 of 4</h2>
                                 </div>
                             </div> <label class="fieldlabels">First Name: *</label> <input type="text" name="fname" placeholder="First Name" /> 
                         </div> <input type="button" name="next" class="next action-button" value="Next" />
@@ -424,7 +424,7 @@ p {
                                     <h2 class="fs-title">Personal Information:</h2>
                                 </div>
                                 <div class="col-5">
-                                    <h2 class="steps">Step 2 - 4</h2>
+                                    <h2 class="steps">2 of 4</h2>
                                 </div>
                             </div> <label class="fieldlabels">Last Name: *</label> <input type="text" name="lname" placeholder="Last Name" /> 
                         </div> <input type="button" name="next" class="next action-button" value="Next" /> <input type="button" name="previous" class="previous action-button-previous" value="Previous" />
@@ -436,7 +436,7 @@ p {
                                     <h2 class="fs-title">Personal Information:</h2>
                                 </div>
                                 <div class="col-5">
-                                    <h2 class="steps">Step 3 - 4</h2>
+                                    <h2 class="steps">3 of 4</h2>
                                 </div>
                             </div> <label class="fieldlabels">Email: *</label> <input type="text" name="email" placeholder="Email Address" /> 
                         </div> <input type="button" name="next" class="next action-button" value="Next" /> <input type="button" name="previous" class="previous action-button-previous" value="Previous" />
@@ -448,7 +448,7 @@ p {
                                     <h2 class="fs-title">Company:</h2>
                                 </div>
                                 <div class="col-5">
-                                    <h2 class="steps">Step 4 - 4</h2>
+                                    <h2 class="steps">4 of 4</h2>
                                 </div>
                             </div> <label class="fieldlabels">Company Name: *</label> <input type="text" name="company" placeholder="Company Name" /> 
                         </div> <input type="submit" name="next" class="next action-button" value="Submit" /> <input type="button" name="previous" class="previous action-button-previous" value="Previous" />
@@ -464,7 +464,7 @@ p {
                                     <h2 class="steps">Completed</h2>
                                 </div>
                             </div> <br><br>
-                            <h2 class="purple-text text-center"><strong>SUCCESS !</strong></h2> <br>
+                            <h2 class="purple-text text-center"><strong>Sign Up Successful!</strong></h2> <br>
                             <div class="row justify-content-center">
                                 <div class="col-3"> <img src="https://i.imgur.com/GwStPmg.png" class="fit-image"> </div>
                             </div> <br><br>
