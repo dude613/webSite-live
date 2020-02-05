@@ -247,9 +247,9 @@
                                     <div class="overlay rounded-top bg-dark"></div>
                                 </div>
                                 <div class="content p-4">
-                                    <h4><a href="javascript:void(0)" class="title text-dark">Automating Accounts Payable</a></h4>
+                                    <h4><a href="invoice.php" class="title text-dark">Automating Accounts Payable</a></h4>
                                     <div class="post-meta mt-3">
-                                        <a href="javascript:void(0)" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
+                                        <a href="invoice.php" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
                                     </div>
                                 </div>
                                 <div class="author">
@@ -265,9 +265,9 @@
                                     <div class="overlay rounded-top bg-dark"></div>
                                 </div>
                                 <div class="content p-4">
-                                    <h4><a href="javascript:void(0)" class="title text-dark">2019 Process Automation Explosion</a></h4>
+                                    <h4><a href="2019 Digital Automation.php" class="title text-dark">2019 Process Automation Explosion</a></h4>
                                     <div class="post-meta mt-3">
-                                        <a href="javascript:void(0)" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
+                                        <a href="2019 Digital Automation.php" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
                                     </div>
                                 </div>
                                 <div class="author">
