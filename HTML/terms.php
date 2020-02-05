@@ -30,13 +30,12 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="page-next-level">
-                                    <h4 class="title"> Terms of Services </h4>
+                                    <h4 class="title"> Terms of Service </h4>
                                     <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
-                                        <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
-                                        <li><a href="#" class="text-uppercase font-weight-bold text-dark">Pages</a></li> 
-                                        <li><a href="#" class="text-uppercase font-weight-bold text-dark">Utility</a></li> 
+                                        <li><a href="index.php" class="text-uppercase font-weight-bold text-dark">Home</a></li>
+                                        <li><a href="#" class="text-uppercase font-weight-bold text-dark">Legal</a></li>
                                         <li>
-                                            <span class="text-uppercase text-primary font-weight-bold"> Terms of Services </span> 
+                                            <span class="text-uppercase text-primary font-weight-bold"> Terms of Service </span> 
                                         </li> 
                                     </ul>
                                 </div>
@@ -57,7 +56,7 @@
             </div>
         </div>
         <!--Shape End-->  
-        
+
         <!-- Start Terms & Conditions -->
         <section class="section">
             <div class="container">
@@ -66,102 +65,20 @@
                         <div class="p-4 shadow border rounded">
                             <h5>Introduction :</h5>
                             <p class="text-muted">It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. One may speculate that over the course of time certain letters were added or deleted at various positions within the text.</p>
-
                             <h5>User Agreements :</h5>
-                            <p class="text-muted">The most well-known dummy text is the 'Lorem Ipsum', which is said to have <b class="text-danger">originated</b> in the 16th century. Lorem Ipsum is <b class="text-danger">composed</b> in a pseudo-Latin language which more or less <b class="text-danger">corresponds</b> to 'proper' Latin. It contains a series of real Latin words. This ancient dummy text is also <b class="text-danger">incomprehensible</b>, but it imitates the rhythm of most European languages in Latin script. The <b class="text-danger">advantage</b> of its Latin origin and the relative <b class="text-danger">meaninglessness</b> of Lorum Ipsum is that the text does not attract attention to itself or distract the viewer's <b class="text-danger">attention</b> from the layout.</p>
-                            <p class="text-muted">There is now an <b class="text-danger">abundance</b> of readable dummy texts. These are usually used when a text is <b class="text-danger">required purely</b> to fill a space. These alternatives to the classic Lorem Ipsum texts are often amusing and tell short, funny or <b class="text-danger">nonsensical</b> stories.</p>
-                            <p class="text-muted">It seems that only <b class="text-danger">fragments</b> of the original text remain in the Lorem Ipsum texts used today. One may speculate that over the course of time certain letters were added or deleted at various positions within the text.</p>
-                            
-                            <h5>Restrictions :</h5>
-                            <p class="text-muted">You are specifically restricted from all of the following :</p>
-                            <ul class="list-unstyled feature-list text-muted">
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Digital Marketing Solutions for Tomorrow</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Our Talented & Experienced Marketing Agency</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Create your own skin to match your brand</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Digital Marketing Solutions for Tomorrow</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Our Talented & Experienced Marketing Agency</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Create your own skin to match your brand</li>
-                            </ul>
-
-                            <h5>Users Question & Answer :</h5>
-                            <div class="faq-content mt-4">
-                                <div class="accordion" id="accordionExample">
-                                    <div class="card border rounded shadow mb-2">
-                                        <a data-toggle="collapse" href="#collapseOne" class="faq position-relative" aria-expanded="true" aria-controls="collapseOne">
-                                            <div class="card-header bg-light p-3" id="headingOne">
-                                                <h4 class="title mb-0 faq-question"> Dummy text is text that is used in the publishing industry ? </h4>
-                                            </div>
-                                        </a>
-                                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-    
-                                    <div class="card border rounded shadow mb-2">
-                                        <a data-toggle="collapse" href="#collapseTwo" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapseTwo">
-                                            <div class="card-header bg-light p-3" id="headingTwo">
-                                                <h4 class="title mb-0 faq-question"> Web designers to occupy the space which will later be filled ? </h4>
-                                            </div>
-                                        </a>
-                                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-    
-                                    <div class="card border rounded shadow mb-2">
-                                        <a data-toggle="collapse" href="#collapseThree" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapseThree">
-                                            <div class="card-header bg-light p-3" id="headingfive">
-                                                <h4 class="title mb-0 faq-question"> This is required when, for example, the final text is not yet available ? </h4>
-                                            </div>
-                                        </a>
-                                        <div id="collapseThree" class="collapse" aria-labelledby="headingfive" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="card border rounded shadow mb-2">
-                                        <a data-toggle="collapse" href="#collapseFour" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapseFour">
-                                            <div class="card-header bg-light p-3" id="headingTwo">
-                                                <h4 class="title mb-0 faq-question"> The most well-known dummy text is the 'Lorem Ipsum', which is said ? </h4>
-                                            </div>
-                                        </a>
-                                        <div id="collapseFour" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-    
-                                    <div class="card rounded shadow mb-0">
-                                        <a data-toggle="collapse" href="#collapsefive" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapsefive">
-                                            <div class="card-header bg-light p-3" id="headingfive">
-                                                <h4 class="title mb-0 faq-question"> Lorem Ipsum is composed in a pseudo-Latin language ? </h4>
-                                            </div>
-                                        </a>
-                                        <div id="collapsefive" class="collapse" aria-labelledby="headingfive" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="mt-3">
-                                <a href="javascript:void(0)" class="btn btn-primary mt-2 mr-2">Accept</a>
-                                <a href="javascript:void(0)" class="btn btn-outline-primary mt-2">Decline</a>
-                            </div>
+                            <p class="text-muted"><strong class="text-danger">Terms.</strong> WeWork Companies Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) owns and operates the website at wework.com (the &ldquo;Site&rdquo;), where you can find information about our products and services. These Website Terms and Conditions (the &ldquo;Website Terms&rdquo;) describe the rights and obligations of an unregistered website user or visitor (&ldquo;user&rdquo; or &ldquo;you&rdquo;) in connection with your use of the Site. By accessing or using the Site in any way, including as an unregistered website visitor, you agree to be bound by these Website Terms and our Privacy Policy, which is available on the Site. These Website Terms apply only to your use of the Site, and the content made available on or through the Site, as an unregistered website user or visitor. If you use or access any of our physical space, restricted-access web-based services (i.e. those requiring a login), the broker or referral program or other services we provide, your use of such space, services or program is subject to the terms and conditions you received or accepted when you signed up for such space, services or program. From time to time, we may make modifications, deletions or additions to the Site or these Website Terms. Your continued use of the Site following the posting of any changes to the Website Terms constitutes acceptance of those changes.</p>
+                            <p class="text-muted"><strong class="text-danger">Eligibility.</strong>&nbsp;The Site and services it describes are available only to individuals who are at least 16 years old, unless we specify otherwise. No one under this age may access or use the Site or provide any personal information through the Site.</p>
+                            <p class="text-muted"><strong class="text-danger">Content.</strong> The text, images, videos, audio clips, software and other content generated, provided, or otherwise made accessible on or through the Site (collectively, &ldquo;Content&rdquo;) are contributed by us and our licensors. The Content and the Site are protected by U.S. and international copyright laws. We and our licensors retain all proprietary rights in the Site and the Content made available on or through the Site, and, except as expressly set forth in these Website Terms, no rights are granted to any Content. Subject to these Website Terms, we grant each user of the Site a worldwide, non-exclusive, non-sublicensable and non-transferable license to use (i.e., to download and display locally) Content solely for viewing, browsing and using the functionality of the Site. All Content is for general informational purposes only. We reserve the right, but do not have any obligation to monitor, remove, edit, modify or remove any Content, in our sole discretion, at any time for any reason or for no reason at all.</p>
+                            <p class="text-muted"><strong class="text-danger">Disclaimer; Limitation of liability.&nbsp;</strong>To the extent permitted by law, we and our affiliates, parents, and successors and each of our and their employees, assignees, officers, agents and directors (collectively, the &ldquo;WeWork Parties&rdquo;) disclaim all warranties and terms, express or implied, with respect to the Site, Content or services (including third party services) on or accessible through the Site, including any warranties or terms of merchantability, fitness for a particular purpose, title, non-infringement and any implied warranties, or arising from course of dealing, course of performance or usage in trade. In no event shall the WeWork Parties be liable under contract, tort, strict liability, negligence or any other legal or equitable theory with respect to the Site for (a) any special, indirect, incidental, punitive, compensatory or consequential damages of any kind whatsoever (however arising) or (b) damages in excess of (in the aggregate) US$100.</p>
+                            <p class="text-muted"><strong class="text-danger">Miscellaneous</strong>. These Website Terms shall be governed by and construed in accordance with the laws of the State of New York, excluding its conflicts of law rules, and the United States of America. These Website Terms constitute the entire agreement between us regarding the Site and supersedes and merges any prior proposals, understandings and contemporaneous communications. If any provision of these Website Terms is held to be invalid or unenforceable, that provision shall be limited or eliminated to the minimum extent necessary so that these Website Terms shall otherwise remain in full force and effect and enforceable. In order for any waiver of compliance with these Website Terms to be binding, we must provide you with written notice of such waiver. The failure of either party to enforce its rights under these Website Terms at any time for any period will not be construed as a waiver of such rights.</p>
+                            <h5>Contact:</h5>
+                            <p class="text-muted">If you have any questions, complaints, or claims with respect to the Site, you may contact us at +1 646 494 6771 or <a href="mailto:info@bflexd.com" target="_blank" rel="noopener">info@bflexd.com</a>:</p>
                         </div>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
-        </section><!--end section-->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <p>&nbsp;</p>
         <!-- End Terms & Conditions -->
 
         <!-- Footer Start -->
@@ -169,8 +86,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
-                        <a class="logo-footer" href="#">Landrick<span class="text-primary">.</span></a>
-                        <p class="mt-4">Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                        <a class="logo-footer" href="#">FlexBot<span class="text-primary">.</span></a>
+                        <p class="mt-4">Start working with FlexBot that can provide everything you need to generate awareness, drive traffic, connect.</p>
                         <ul class="list-unstyled social-icon social mb-0 mt-4">
                             <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-facebook" title="Facebook"></i></a></li>
                             <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-instagram" title="Instagram"></i></a></li>
@@ -230,7 +147,7 @@
                 <div class="row align-items-center">
                     <div class="col-sm-6">
                         <div class="text-sm-left">
-                            <p class="mb-0">© 2019-20 Landrick. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="http://www.shreethemes.in/" target="_blank" class="text-success">Shreethemes</a>.</p>
+                            <p class="mb-0">© 2019-20 FlexBot. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="http://www.shreethemes.in/" target="_blank" class="text-success">Shreethemes</a>.</p>
                         </div>
                     </div>
 
