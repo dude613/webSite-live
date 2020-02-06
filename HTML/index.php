@@ -281,7 +281,7 @@
                                 <p class="text-muted para-desc mx-auto mb-0">Implementing <span class="text-primary font-weight-bold">FlexBot</span> and robotic process automation can propel your business to the next level.</p>
                             
                                 <div class="mt-3">
-                                    <a href="register.php" class="btn btn-primary mt-2 mr-2">Get Started</a>
+                                    <a href="register" class="btn btn-primary mt-2 mr-2">Get Started</a>
                                 </div>
                             </div>
                         </div><!--end col-->
