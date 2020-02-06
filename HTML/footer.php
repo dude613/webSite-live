@@ -56,7 +56,6 @@
             </div><!--end row-->
         </div><!--end container-->
     </footer><!--end footer-->
-    <hr>
     <footer class="footer footer-bar">
         <div class="container text-center">
             <div class="row align-items-center">

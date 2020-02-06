@@ -37,7 +37,7 @@
                                             <p class="font_test">Flexbot's digital robots & automation infastructures increase employee productivity & satisfaction, while improving your organizations operational efficiency & business process.</p>
                                         <div class="mt-4 pt-2">
                                             <!--<a href="https://app.bflexd.com" class="btn btn-primary mt-2"> Sign Up<i class="mdi"></i></a>-->
-                                            <a href="page-contact-three.html" class="btn btn-outline-primary mt-2"><i class="mdi"></i> Contact Sales</a>
+                                            <a href="register.php" class="btn btn-outline-primary mt-2"><i class="mdi"></i> Contact Sales</a>
                                         </div>
                                     </div>
                                 </div><!--end col-->
@@ -81,35 +81,30 @@
                         <div class="col-md-4 col-12">
                             <div class="features mt-5">
                                 <div class="image position-relative d-inline-block">
-                                    <img src="images/icon/pen.svg" alt="">
+                                    <img src="images/icon/pen.svg" class="avatar avatar-small" alt="">
                                 </div>
-
                                 <div class="content mt-4">
                                     <h4 class="title-2">Scope & Development</h4>
                                     <p class="text-muted mb-0">We scope out your business processes & identify the points ripe for robotic process automation.</p>
                                 </div>
                             </div>
                         </div><!--end col-->
-                        
                         <div class="col-md-4 col-12 mt-5">
                             <div class="features">
                                 <div class="image position-relative d-inline-block">
-                                    <img src="images/icon/sand-clock.svg" alt="">
+                                    <img src="images/icon/sand-clock.svg" class="avatar avatar-small" alt="">
                                 </div>
-
                                 <div class="content mt-4">
                                     <h4 class="title-2">Testing & Deployment</h4>
                                     <p class="text-muted mb-0">A main KPI we measure is the time savings for the process, and to the organization as a whole.</p>
                                 </div>
                             </div>
                         </div><!--end col-->
-                        
                         <div class="col-md-4 col-12 mt-5">
                             <div class="features">
                                 <div class="image position-relative d-inline-block">
-                                    <img src="images/icon/user.svg" alt="">
+                                    <img src="images/icon/user.svg" class="avatar avatar-small" alt="">
                                 </div>
-
                                 <div class="content mt-4">
                                     <h4 class="title-2">Employee Satisfaction</h4>
                                     <p class="text-muted mb-0">After all deployments, employees in contact with our robot report high levels of satisfaction.</p>
@@ -286,8 +281,7 @@
                                 <p class="text-muted para-desc mx-auto mb-0">Implementing <span class="text-primary font-weight-bold">FlexBot</span> and robotic process automation can propel your business to the next level.</p>
                             
                                 <div class="mt-3">
-                                    <!--<a href="javascript:void(0)" class="btn btn-primary mt-2 mr-2">Sign Up</a>-->
-                                    <a href="mailto:info@bflexd.com" class="btn btn-outline-primary mt-2">Contact Sales</a>
+                                    <a href="register.php" class="btn btn-primary mt-2 mr-2">Get Started</a>
                                 </div>
                             </div>
                         </div><!--end col-->

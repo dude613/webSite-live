@@ -113,7 +113,7 @@
                 <div class="col-md-4">
                     <div class="contact-detail text-center">
                         <div class="icon">
-                            <img src="images/icon/call.svg" alt="">
+                            <img src="images/icon/call.svg" class="avatar avatar-small" alt="">
                         </div>
                         <div class="content mt-3">
                             <h4 class="title font-weight-bold">Phone</h4>
@@ -126,7 +126,7 @@
                 <div class="col-md-4 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <div class="contact-detail text-center">
                         <div class="icon">
-                            <img src="images/icon/Email.svg" alt="">
+                            <img src="images/icon/Email.svg" class="avatar avatar-small" alt="">
                         </div>
                         <div class="content mt-3">
                             <h4 class="title font-weight-bold">Email</h4>
@@ -139,7 +139,7 @@
                 <div class="col-md-4 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <div class="contact-detail text-center">
                         <div class="icon">
-                            <img src="images/icon/location.svg" alt="">
+                            <img src="images/icon/location.svg" class="avatar avatar-small" alt="">
                         </div>
                         <div class="content mt-3">
                             <h4 class="title font-weight-bold">Location</h4>
