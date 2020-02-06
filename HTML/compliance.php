@@ -30,13 +30,12 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="page-next-level">
-                                    <h4 class="title"> Terms of Services </h4>
+                                    <h4 class="title"> Compliance </h4>
                                     <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
-                                        <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
-                                        <li><a href="#" class="text-uppercase font-weight-bold text-dark">Pages</a></li> 
-                                        <li><a href="#" class="text-uppercase font-weight-bold text-dark">Utility</a></li> 
+                                        <li><a href="index" class="text-uppercase font-weight-bold text-dark">Home</a></li> 
+                                        <li><a href="#" class="text-uppercase font-weight-bold text-dark">Legal</a></li> 
                                         <li>
-                                            <span class="text-uppercase text-primary font-weight-bold"> Terms of Services </span> 
+                                            <span class="text-uppercase text-primary font-weight-bold"> Compliance </span> 
                                         </li> 
                                     </ul>
                                 </div>
@@ -64,37 +63,27 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-9">
                         <div class="p-4 shadow border rounded">
-                            <h5>Introduction :</h5>
-                            <p class="text-muted">It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. One may speculate that over the course of time certain letters were added or deleted at various positions within the text.</p>
+                            <h5>Overview :</h5>
+                            <p class="text-muted">Enterprise organizations face a daunting challenge in complying with increasingly stringent regulatory compliance standards regarding oversight of third-party relationships. These regulatory struggles are applicable across every industry from healthcare to financial services</p>
 
-                            <h5>User Agreements :</h5>
-                            <p class="text-muted">The most well-known dummy text is the 'Lorem Ipsum', which is said to have <b class="text-danger">originated</b> in the 16th century. Lorem Ipsum is <b class="text-danger">composed</b> in a pseudo-Latin language which more or less <b class="text-danger">corresponds</b> to 'proper' Latin. It contains a series of real Latin words. This ancient dummy text is also <b class="text-danger">incomprehensible</b>, but it imitates the rhythm of most European languages in Latin script. The <b class="text-danger">advantage</b> of its Latin origin and the relative <b class="text-danger">meaninglessness</b> of Lorum Ipsum is that the text does not attract attention to itself or distract the viewer's <b class="text-danger">attention</b> from the layout.</p>
-                            <p class="text-muted">There is now an <b class="text-danger">abundance</b> of readable dummy texts. These are usually used when a text is <b class="text-danger">required purely</b> to fill a space. These alternatives to the classic Lorem Ipsum texts are often amusing and tell short, funny or <b class="text-danger">nonsensical</b> stories.</p>
-                            <p class="text-muted">It seems that only <b class="text-danger">fragments</b> of the original text remain in the Lorem Ipsum texts used today. One may speculate that over the course of time certain letters were added or deleted at various positions within the text.</p>
+                            <h5>Consider :</h5>
+                            <p class="text-muted">Process Automation directly addresses some of the key imperatives of regulatory compliance. In contrast to a human worker, a process automation solution not only performs a process function exactly the same way every time, it provides a more <b class="text-danger"> detailed and sustainable audit log</b> of activity – an essential criterion of compliance readiness.</p>
+                            <p class="text-muted">Process Automation solutions are software platforms that use “virtual robots” to manipulate existing application software in the same way that a person processes a transaction or completes a process. By performing rote and routine functions <b class="text-danger">faster, cheaper and more efficiently</b> than human workers, process automation tools offer the potential to drive significant cost savings.</p>
+                            <p class="text-muted">Another advantage of process automation is that tools can be easily scaled as well as quickly reconfigured or <b class="text-danger"> “taught”</b> to perform a wide range of functions – ranging from invoice reconciliation to document review to data consolidation –without any need for training. </p>
+                            <p class="text-muted">Finally, by altering the fundamental premise of labor arbitrage, process automation redefines how sourcing location decisions are reached. This makes onshoring increasingly viable from a cost standpoint – and gives organizations operating in high-risk offshore locations an additional<b class="text-danger"> lower-risk</b> sourcing option.</p>
                             
-                            <h5>Restrictions :</h5>
-                            <p class="text-muted">You are specifically restricted from all of the following :</p>
-                            <ul class="list-unstyled feature-list text-muted">
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Digital Marketing Solutions for Tomorrow</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Our Talented & Experienced Marketing Agency</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Create your own skin to match your brand</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Digital Marketing Solutions for Tomorrow</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Our Talented & Experienced Marketing Agency</li>
-                                <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Create your own skin to match your brand</li>
-                            </ul>
-
-                            <h5>Users Question & Answer :</h5>
+                            <h5>Frequently Asked Questions :</h5>
                             <div class="faq-content mt-4">
                                 <div class="accordion" id="accordionExample">
                                     <div class="card border rounded shadow mb-2">
                                         <a data-toggle="collapse" href="#collapseOne" class="faq position-relative" aria-expanded="true" aria-controls="collapseOne">
                                             <div class="card-header bg-light p-3" id="headingOne">
-                                                <h4 class="title mb-0 faq-question"> Dummy text is text that is used in the publishing industry ? </h4>
+                                                <h4 class="title mb-0 faq-question"> How long is the deployment process ? </h4>
                                             </div>
                                         </a>
                                         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                                             <div class="card-body">
-                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                                <p class="text-muted mb-0 faq-ans">It is contingent on the complexity of the process & the quantity of robots, however it is usually anywhere between 1 week to 1 month.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -102,12 +91,12 @@
                                     <div class="card border rounded shadow mb-2">
                                         <a data-toggle="collapse" href="#collapseTwo" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapseTwo">
                                             <div class="card-header bg-light p-3" id="headingTwo">
-                                                <h4 class="title mb-0 faq-question"> Web designers to occupy the space which will later be filled ? </h4>
+                                                <h4 class="title mb-0 faq-question"> Is my information & data secure ? </h4>
                                             </div>
                                         </a>
                                         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                                             <div class="card-body">
-                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                                <p class="text-muted mb-0 faq-ans">Almost all of FlexBot's digital robots are run locally on your systems & are only connected to networks that you authorize.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -115,38 +104,12 @@
                                     <div class="card border rounded shadow mb-2">
                                         <a data-toggle="collapse" href="#collapseThree" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapseThree">
                                             <div class="card-header bg-light p-3" id="headingfive">
-                                                <h4 class="title mb-0 faq-question"> This is required when, for example, the final text is not yet available ? </h4>
+                                                <h4 class="title mb-0 faq-question"> Is FlexBot compatible with our existing software ? </h4>
                                             </div>
                                         </a>
                                         <div id="collapseThree" class="collapse" aria-labelledby="headingfive" data-parent="#accordionExample">
                                             <div class="card-body">
-                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="card border rounded shadow mb-2">
-                                        <a data-toggle="collapse" href="#collapseFour" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapseFour">
-                                            <div class="card-header bg-light p-3" id="headingTwo">
-                                                <h4 class="title mb-0 faq-question"> The most well-known dummy text is the 'Lorem Ipsum', which is said ? </h4>
-                                            </div>
-                                        </a>
-                                        <div id="collapseFour" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-    
-                                    <div class="card rounded shadow mb-0">
-                                        <a data-toggle="collapse" href="#collapsefive" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapsefive">
-                                            <div class="card-header bg-light p-3" id="headingfive">
-                                                <h4 class="title mb-0 faq-question"> Lorem Ipsum is composed in a pseudo-Latin language ? </h4>
-                                            </div>
-                                        </a>
-                                        <div id="collapsefive" class="collapse" aria-labelledby="headingfive" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                                <p class="text-muted mb-0 faq-ans">Flexbot was built with your digital transformation journey in mind & will work with almost all softwares, online & offline.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -154,8 +117,9 @@
                             </div>
 
                             <div class="mt-3">
-                                <a href="javascript:void(0)" class="btn btn-primary mt-2 mr-2">Accept</a>
-                                <a href="javascript:void(0)" class="btn btn-outline-primary mt-2">Decline</a>
+                                <?php
+                                include("get_started.php")
+                                ?>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -164,89 +128,9 @@
         </section><!--end section-->
         <!-- End Terms & Conditions -->
 
-        <!-- Footer Start -->
-        <footer class="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
-                        <a class="logo-footer" href="#">Landrick<span class="text-primary">.</span></a>
-                        <p class="mt-4">Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                        <ul class="list-unstyled social-icon social mb-0 mt-4">
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-facebook" title="Facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-instagram" title="Instagram"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
-                        </ul><!--end icon-->
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                        <h4 class="text-light footer-head">Company</h4>
-                        <ul class="list-unstyled footer-list mt-4">
-                            <li><a href="page-aboutus.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> About us</a></li>
-                            <li><a href="page-services.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Services</a></li>
-                            <li><a href="page-team.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Team</a></li>
-                            <li><a href="page-pricing.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Pricing</a></li>
-                            <li><a href="page-work.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Project</a></li>
-                            <li><a href="page-jobs.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Careers</a></li>
-                            <li><a href="page-blog.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Blog</a></li>
-                            <li><a href="page-cover-login.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Login</a></li>
-                        </ul>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                        <h4 class="text-light footer-head">Usefull Links</h4>
-                        <ul class="list-unstyled footer-list mt-4">
-                            <li><a href="page-terms.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Terms of Services</a></li>
-                            <li><a href="page-privacy.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Privacy Policy</a></li>
-                            <li><a href="documentation.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Documentation</a></li>
-                            <li><a href="changelog.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Changelog</a></li>
-                            <li><a href="components.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Components</a></li>
-                        </ul>
-                    </div><!--end col-->
-
-                    <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                        <h4 class="text-light footer-head">Newsletter</h4>
-                        <p class="mt-4">Sign up and receive the latest tips via email.</p>
-                        <form>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="foot-subscribe form-group position-relative">
-                                        <label>Write your email <span class="text-danger">*</span></label>
-                                        <i class="mdi mdi-email ml-3 icons"></i>
-                                        <input type="email" name="email" id="emailsubscribe" class="form-control pl-5 rounded" placeholder="Your email : " required>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <input type="submit" id="submitsubscribe" name="send" class="btn btn-primary rounded w-100" value="Subscribe">
-                                </div>
-                            </div>
-                        </form>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
-        </footer><!--end footer-->
-        <hr>
-        <footer class="footer footer-bar">
-            <div class="container text-center">
-                <div class="row align-items-center">
-                    <div class="col-sm-6">
-                        <div class="text-sm-left">
-                            <p class="mb-0">© 2019-20 Landrick. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="http://www.shreethemes.in/" target="_blank" class="text-success">Shreethemes</a>.</p>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                        <ul class="list-unstyled payment-cards text-sm-right mb-0">
-                            <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/american-ex.png" title="American Express" alt=""></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/discover.png" title="Discover" alt=""></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/master-card.png" title="Master Card" alt=""></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/paypal.png" title="Paypal" alt=""></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/visa.png" title="Visa" alt=""></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div><!--end container-->
-        </footer><!--end footer-->
-        <!-- Footer End -->
+        <?php
+        include("footer");
+        ?>
 
         <!-- Back to top -->
         <a href="#" class="back-to-top rounded text-center" id="back-to-top"> 
