@@ -42,10 +42,10 @@
                             </ul>
                         </li>
                             <li class="has-submenu">
-                                <a href="partners.html">Partners</a>
+                                <a href="partners.php">Partners</a>
                             </li>
                             <li class="has-submenu">
-                                <a href="page-contact-three.html">Contact</a>
+                                <a href="contact.php">Contact</a>
                             </li>
                         </ul>
                     </li>
