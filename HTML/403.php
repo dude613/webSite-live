@@ -30,14 +30,14 @@
                             <div class="col-lg-8 col-md-12 text-center">
                                 <img src="images/404.png" class="img-fluid" alt="">
                                 <div class="text-uppercase mt-4 display-3">Oh ! no</div>
-                                <div class="text-capitalize text-dark mb-4 error-page">Page Not Found</div>
+                                <div class="text-capitalize text-dark mb-4 error-page">Page Not Found / Error 403</div>
                                 <p class="text-muted para-desc mx-auto">Start working with <span class="text-primary font-weight-bold">flexBot</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
                             </div>
                         </div>
 
                         <div class="row">
                             <div class="col-md-12 text-center">  
-                                <a href="index.html" class="btn btn-primary mt-4 ml-2">Home</a>
+                                <a href="index" class="btn btn-primary mt-4 ml-2">Home</a>
                             </div>
                         </div>
                     </div>
