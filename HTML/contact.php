@@ -113,11 +113,11 @@
                 <div class="col-md-4">
                     <div class="contact-detail text-center">
                         <div class="icon">
-                            <img src="images/icon/bitcoin.svg" alt="">
+                            <img src="images/icon/call.svg" alt="">
                         </div>
                         <div class="content mt-3">
                             <h4 class="title font-weight-bold">Phone</h4>
-                            <p class="text-muted">Start working with Landrick that can provide everything</p>
+                            <p class="text-muted">Start working with FlexBot that can provide everything</p>
                             <a href="tel:+16464946771" class="text-primary">+1 646 494 6771</a>
                         </div>  
                     </div>
@@ -130,7 +130,7 @@
                         </div>
                         <div class="content mt-3">
                             <h4 class="title font-weight-bold">Email</h4>
-                            <p class="text-muted">Start working with Landrick that can provide everything</p>
+                            <p class="text-muted">Start working with FlexBot that can provide everything</p>
                             <a href="mailto:info@bflexd.com" class="text-primary">info@bflexd.com</a>
                         </div>  
                     </div>
@@ -158,8 +158,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
-                    <a class="logo-footer" href="#">Landrick<span class="text-primary">.</span></a>
-                    <p class="mt-4">Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                    <a class="logo-footer" href="#">FlexBot<span class="text-primary">.</span></a>
+                    <p class="mt-4">Start working with FlexBot that can provide everything you need to generate awareness, drive traffic, connect.</p>
                     <ul class="list-unstyled social-icon social mb-0 mt-4">
                         <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-facebook" title="Facebook"></i></a></li>
                         <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-instagram" title="Instagram"></i></a></li>
@@ -219,7 +219,7 @@
             <div class="row align-items-center">
                 <div class="col-sm-6">
                     <div class="text-sm-left">
-                        <p class="mb-0">© 2019-20 Landrick. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="http://www.shreethemes.in/" target="_blank" class="text-success">Shreethemes</a>.</p>
+                        <p class="mb-0">© 2019-20 FlexBot. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="http://www.shreethemes.in/" target="_blank" class="text-success">Shreethemes</a>.</p>
                     </div>
                 </div>
 
