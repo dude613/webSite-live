@@ -3,7 +3,7 @@
             <div class="container">
                 <!-- Logo container-->
                 <div>
-                    <a class="logo" href="index.php">FlexBot</a>
+                    <a class="logo" href="https://bflexd.com">FlexBot</a>
                 </div>                 
                 <div class="buy-button">
                     <a href="register.php" class="btn btn-outline-primary mt-2 mr-2">Contact Sales</a>
@@ -26,7 +26,7 @@
                 <div id="navigation">
                     <!-- Navigation Menu-->   
                     <ul class="navigation-menu">
-                        <li><a href="page-pricing.html">Pricing</a></li>
+                        <li><a href="pricing.php">Pricing</a></li>
                         <li class="has-submenu">
                             <a href="posts.html">Cases</a><span class="menu-arrow"></span>
                             <ul class="submenu megamenu">

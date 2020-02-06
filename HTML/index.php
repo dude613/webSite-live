@@ -20,7 +20,6 @@
             <?php
             include("navbar.php");
             ?>
-        
             
             <!-- Hero Start -->
             <section class="bg-half-170 border-bottom" id="home">
