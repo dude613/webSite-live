@@ -37,7 +37,7 @@
                                             <p class="font_test">Flexbot's digital robots & automation infastructures increase employee productivity & satisfaction, while improving your organizations operational efficiency & business process.</p>
                                         <div class="mt-4 pt-2">
                                             <!--<a href="https://app.bflexd.com" class="btn btn-primary mt-2"> Sign Up<i class="mdi"></i></a>-->
-                                            <a href="register.php" class="btn btn-outline-primary mt-2"><i class="mdi"></i> Contact Sales</a>
+                                            <a href="register" class="btn btn-outline-primary mt-2"><i class="mdi"></i> Contact Sales</a>
                                         </div>
                                     </div>
                                 </div><!--end col-->
@@ -241,9 +241,9 @@
                                     <div class="overlay rounded-top bg-dark"></div>
                                 </div>
                                 <div class="content p-4">
-                                    <h4><a href="invoice.php" class="title text-dark">Automating Accounts Payable</a></h4>
+                                    <h4><a href="invoice" class="title text-dark">Automating Accounts Payable</a></h4>
                                     <div class="post-meta mt-3">
-                                        <a href="invoice.php" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
+                                        <a href="invoice" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
                                     </div>
                                 </div>
                                 <div class="author">

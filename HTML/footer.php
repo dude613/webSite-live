@@ -28,10 +28,10 @@
                 <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <h4 class="text-light footer-head">Useful Links</h4>
                     <ul class="list-unstyled footer-list mt-4">
-                        <li><a href="terms.php" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Terms</a></li>
-                        <li><a href="privacy.php" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Privacy</a></li>
-                        <li><a href="compliance.php" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Compliance</a></li>
-                        <li><a href="partners.php" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Partners</a></li>
+                        <li><a href="terms" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Terms</a></li>
+                        <li><a href="privacy" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Privacy</a></li>
+                        <li><a href="compliance" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Compliance</a></li>
+                        <li><a href="partners" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Partners</a></li>
                     </ul>
                 </div><!--end col-->
 

@@ -31,7 +31,7 @@
                                 <div class="page-next-level">
                                     <h4 class="title">Pricing</h4>
                                     <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
-                                        <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
+                                        <li><a href="https://bflexd.com" class="text-uppercase font-weight-bold text-dark">Home</a></li>
                                             <span class="text-uppercase text-primary font-weight-bold">Pricing</span> 
                                         </li> 
                                     </ul>
@@ -294,7 +294,7 @@
                             <h4 class="title mb-4">Your business should be running with maximum effeciency.</h4>
                             <p class="text-muted para-desc mx-auto mb-0">Implementing <span class="text-primary font-weight-bold">FlexBot</span> and robotic process automation can propel your business to the next level.</p>
                             <div class="mt-3">
-                                <a href="register.php" class="btn btn-primary mt-2 mr-2">Sign Up</a>
+                                <a href="register" class="btn btn-primary mt-2 mr-2">Sign Up</a>
                                 <a href="mailto:info@bflexd.com" class="btn btn-outline-primary mt-2">Contact Sales</a>
                             </div>
                         </div>
