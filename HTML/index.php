@@ -148,64 +148,64 @@
             </section><!--end section-->
             <!-- VIDEO End -->
 
-                <!-- Counter End -->
-                <div class="container mt-100 mt-60">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6">
-                            <div class="section-title">
-                                <h4 class="title mb-4">Everything to know about <span class="text-primary">FlexBot</span> and your business</h4>
-                                <p class="text-muted para-desc">The end goal of working with <span class="text-primary font-weight-bold">FlexBot</span> is having your business operate at maximum level effeciency, while ensuring all resources are being utilized 100%.</p>
-                                <ul class="list-unstyled feature-list text-muted">
-                                    <li><i class="mdi mdi-checkbox-marked-circle text-success h4 mr-2"></i>End to End Process Automation/Optimization</li>
-                                    <li><i class="mdi mdi-checkbox-marked-circle text-success h4 mr-2"></i>Empower & Assist Current Employees</li>
-                                    <li><i class="mdi mdi-checkbox-marked-circle text-success h4 mr-2"></i>Full Cloud Management & KPI/ROI Tracking</li>
-                                    <li><i class="mdi mdi-checkbox-marked-circle text-success h4 mr-2"></i>Updated Development Deployments & Management</li>
-                                </ul>
-                            </div>
-                        </div><!--end col-->
+            <!-- Counter End -->
+            <div class="container mt-100 mt-60">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="section-title">
+                            <h4 class="title mb-4">Everything to know about <span class="text-primary">FlexBot</span> and your business</h4>
+                            <p class="text-muted para-desc">The end goal of working with <span class="text-primary font-weight-bold">FlexBot</span> is having your business operate at maximum level effeciency, while ensuring all resources are being utilized 100%.</p>
+                            <ul class="list-unstyled feature-list text-muted">
+                                <li><i class="mdi mdi-checkbox-marked-circle text-success h4 mr-2"></i>End to End Process Automation/Optimization</li>
+                                <li><i class="mdi mdi-checkbox-marked-circle text-success h4 mr-2"></i>Empower & Assist Current Employees</li>
+                                <li><i class="mdi mdi-checkbox-marked-circle text-success h4 mr-2"></i>Full Cloud Management & KPI/ROI Tracking</li>
+                                <li><i class="mdi mdi-checkbox-marked-circle text-success h4 mr-2"></i>Updated Development Deployments & Management</li>
+                            </ul>
+                        </div>
+                    </div><!--end col-->
 
-                        <div class="col-lg-6">
-                            <div class="row ml-lg-5" id="counter">
-                                <div class="col-md-6 col-12">
-                                    <div class="row">
-                                        <div class="col-12 mt-4 pt-2">
-                                            <div class="counter-box position-relative counter-border bg-light shadow rounded p-4 pt-5 pb-5 text-center">
-                                                <h2 class="mb-0"><span class="counter-value" data-count="84">3</span>%</h2>
-                                                <h5 class="counter-head">Average End to End Automation</h5>
-                                            </div><!--end counter box-->
-                                        </div>
+                    <div class="col-lg-6">
+                        <div class="row ml-lg-5" id="counter">
+                            <div class="col-md-6 col-12">
+                                <div class="row">
+                                    <div class="col-12 mt-4 pt-2">
+                                        <div class="counter-box position-relative counter-border bg-light shadow rounded p-4 pt-5 pb-5 text-center">
+                                            <h2 class="mb-0"><span class="counter-value" data-count="84">3</span>%</h2>
+                                            <h5 class="counter-head">Average End to End Automation</h5>
+                                        </div><!--end counter box-->
+                                    </div>
 
-                                        <div class="col-12 mt-4 pt-2">
-                                            <div class="counter-box position-relative counter-border bg-primary shadow rounded p-4 pt-5 pb-5 text-center">
-                                                <h2 class="text-light mb-0"><span class="counter-value" data-count="100">1</span>+</h2>
-                                                <h5 class="counter-head text-light">Unique Bots Deployed</h5>
-                                            </div><!--end counter box-->
-                                        </div>
+                                    <div class="col-12 mt-4 pt-2">
+                                        <div class="counter-box position-relative counter-border bg-primary shadow rounded p-4 pt-5 pb-5 text-center">
+                                            <h2 class="text-light mb-0"><span class="counter-value" data-count="100">1</span>+</h2>
+                                            <h5 class="counter-head text-light">Unique Bots Deployed</h5>
+                                        </div><!--end counter box-->
                                     </div>
                                 </div>
+                            </div>
 
-                                <div class="col-md-6 col-12">
-                                    <div class="row pt-lg-5 mt-lg-4">
-                                        <div class="col-12 mt-4 pt-2">
-                                            <div class="counter-box position-relative counter-border bg-success shadow rounded p-4 pt-5 pb-5 text-center">
-                                                <h2 class="text-light mb-0"><span class="counter-value" data-count="3500">0</span>+ Hours</h2>
-                                                <h5 class="counter-head text-light">of Work Saved</h5>
+                            <div class="col-md-6 col-12">
+                                <div class="row pt-lg-5 mt-lg-4">
+                                    <div class="col-12 mt-4 pt-2">
+                                        <div class="counter-box position-relative counter-border bg-success shadow rounded p-4 pt-5 pb-5 text-center">
+                                            <h2 class="text-light mb-0"><span class="counter-value" data-count="3500">0</span>+ Hours</h2>
+                                            <h5 class="counter-head text-light">of Work Saved</h5>
+                                        </div><!--end counter box-->
+                                    </div>
+                                    <div class="col-12 mt-4 pt-2">
+                                        <p class="">
+                                            <div class="padding-bottom counter-box position-relative counter-border bg-light shadow rounded p-4 pt-5 pb-5 text-center">
+                                                <h2 class="mb-0"><span class="counter-value" data-count="1000">3</span>+</h2>
+                                                <h5 class="counter-head">Happier Employees</h5>
                                             </div><!--end counter box-->
-                                        </div>
-                                        <div class="col-12 mt-4 pt-2">
-                                            <p class="">
-                                                <div class="padding-bottom counter-box position-relative counter-border bg-light shadow rounded p-4 pt-5 pb-5 text-center">
-                                                    <h2 class="mb-0"><span class="counter-value" data-count="1000">3</span>+</h2>
-                                                    <h5 class="counter-head">Happier Employees</h5>
-                                                </div><!--end counter box-->
-                                            </p>
-                                        </div>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div><!--end row-->
-                </div><!--end container-->
+                    </div>
+                </div><!--end row-->
+            </div><!--end container-->
             </section>
             <!--end section-->
             <!-- Counter End -->
@@ -305,10 +305,10 @@
                             <a class="logo-footer" href="#">FlexBot<span class="text-primary">.</span></a>
                             <p class="mt-4">Build your automation infastructure with flexBot's robotic process automations & be assured your organization is operating at peak efficiency. </p>
                             <ul class="list-unstyled social-icon social mb-0 mt-4">
-                                <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-email" title="Facebook"></i></a></li>
-                                <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-linkedin" title="Linkedin"></i></a></li>
-                                <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
-                                <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-phone" title="Phone"></i></a></li>
+                                <li class="list-inline-item"><a href="mailto:info@bflexd.com" class="rounded"><i class="mdi mdi-email" title="Email"></i></a></li>
+                                <li class="list-inline-item"><a href="https://www.linkedin.com/company/flexbots/" class="rounded"><i class="mdi mdi-linkedin" title="Linkedin"></i></a></li>
+                                <li class="list-inline-item"><a href="https://twitter.com/bflexd" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
+                                <li class="list-inline-item"><a href="SMS:+16464946771&body=Hi%2520," class="rounded"><i class="mdi mdi-phone" title="Phone"></i></a></li>
                             
                             </ul><!--end icon-->
                         </div><!--end col-->
@@ -320,7 +320,6 @@
                                 <li><a href="page-aboutus.html#team" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Team</a></li>
                                 <li><a href="page-pricing.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Pricing</a></li>
                                 <li><a href="page-jobs.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Careers</a></li>
-                                <li><a href="page-blog.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Cases</a></li>
                                 <li><a href="page-cover-login.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Login</a></li>
                             </ul>
                         </div><!--end col-->
@@ -368,11 +367,11 @@
 
                         <div class="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                             <ul class="list-unstyled payment-cards text-sm-right mb-0">
-                                <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/american-ex.png" title="American Express" alt=""></a></li>
-                                <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/discover.png" title="Discover" alt=""></a></li>
-                                <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/master-card.png" title="Master Card" alt=""></a></li>
-                                <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/paypal.png" title="Paypal" alt=""></a></li>
-                                <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/visa.png" title="Visa" alt=""></a></li>
+                                <li class="list-inline-item"><img src="images/payments/american-ex.png" title="American Express" alt=""></a></li>
+                                <li class="list-inline-item"><img src="images/payments/discover.png" title="Discover" alt=""></a></li>
+                                <li class="list-inline-item"><img src="images/payments/master-card.png" title="Master Card" alt=""></a></li>
+                                <li class="list-inline-item"><img src="images/payments/paypal.png" title="Paypal" alt=""></a></li>
+                                <li class="list-inline-item"><img src="images/payments/visa.png" title="Visa" alt=""></a></li>
                             </ul>
                         </div>
                     </div>
