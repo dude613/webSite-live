@@ -396,9 +396,9 @@ p {
                 <form id="msform" action="" method="POST">
                     <!-- progressbar -->
                     <ul id="progressbar">
-                        <li class="active" id="account"><strong>First Name</strong></li>
-                        <li id="personal"><strong>Last Name</strong></li>
-                        <li id="payment"><strong>Email Address</strong></li>
+                        <li class="active" id="confirm"><strong>First Name</strong></li>
+                        <li id="confirm"><strong>Last Name</strong></li>
+                        <li id="confirm"><strong>Email Address</strong></li>
                         
 						 <li id="confirm"><strong>Company</strong></li>
                     </ul>
@@ -464,7 +464,7 @@ p {
                                     <h2 class="steps">Completed</h2>
                                 </div>
                             </div> <br><br>
-                            <h2 class="purple-text text-center"><strong>Sign Up Successful!</strong></h2> <br>
+                            <h2 class="purple-text text-center"><strong>Registration Successful!</strong></h2> <br>
                             <div class="row justify-content-center">
                                 <div class="col-3"> <img src="https://i.imgur.com/GwStPmg.png" class="fit-image"> </div>
                             </div> <br><br>
