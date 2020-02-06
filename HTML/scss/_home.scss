@@ -8,17 +8,6 @@
     position: relative;
     background-position: center center;
 }
-
-.home-center {
-    display: table;
-    width: 100%;
-    height: 100%;
-}
-
-.home-desc-center {
-    display: table-cell;
-    vertical-align: middle;
-}
 .bg-home {
     height: 100vh;    
     @include home-common();
@@ -32,7 +21,7 @@
     @include home-common();
 }
 .bg-half {
-    padding: 144px 0 50px;
+    padding: 184px 0 90px;
     @include home-common();
 }
 
@@ -50,6 +39,21 @@
         z-index: 1;
     }
 }
+
+.classic-saas-image {
+    .bg-saas-shape {
+        &:after {
+            bottom: 3rem;
+            left: 0;
+            width: 75rem;
+            height: 55rem;
+            border-radius: 20rem;
+            opacity: 0.9;
+            transform: rotate(130deg);
+        }
+    }
+}
+
 //Studio
 .studio-home {
     padding: 7%;
@@ -90,6 +94,9 @@
     .carousel-item {
         background-position: center center;
         background-size: cover;
+        &.active {
+            display: flex;
+        }
     }
 }
 
@@ -138,12 +145,52 @@
             background: rgba($dark, 0.6);
         }
     }
+    &.crypto-home {
+        &:after {
+            background: $primary;
+            clip-path: polygon(0 0, 100% 0, 30% 100%, 0% 100%);
+        }
+    }
 }
 
 //page-invoice.html
 .bg-invoice {
     padding: 100px 0;
     @include home-common();
+}
+
+//Application
+.classic-app-image {
+    .bg-app-shape {
+        &:after {
+            bottom: 3rem;
+            left: -8rem;
+            width: 55rem;
+            height: 35rem;
+            border-radius: 20rem;
+            transform: rotate(120deg);
+            opacity: 0.9;
+        }
+    }
+    .app-images {
+        position: absolute;
+        bottom: 60px;
+        right: -20px;
+    }
+}
+.classic-app-image .bg-app-shape, 
+.app-feature-shape-right,
+.app-feature-shape-left,
+.classic-saas-image .bg-saas-shape,
+.saas-feature-shape-left,
+.saas-feature-shape-right {
+    &:after {
+        content: " ";
+        position: absolute;
+        background-color: $primary;
+        box-shadow: 0 0 40px rgba($primary, 0.5);
+        z-index: -1;
+    }
 }
 
 // Responsive 
@@ -179,7 +226,22 @@
     .bg-half {
         padding: 169px 0 50px;
     }
+    .wave-one, .wave-three {
+        background-size: 50% 50px;
+    }
+
+    .wave-two {
+        background-size: 50% 70px;
+    }
+    .classic-saas-image {
+        .bg-saas-shape { 
+            img {
+                max-width: 550px;
+            }
+        }
+    }
 }
+
 @media (max-width: 767px) {
     .bg-home, .bg-half-170, .bg-half-260, .main-slider .slides .bg-slider, .bg-marketing {        
         padding: 150px 0;
@@ -194,6 +256,22 @@
         &:after {
             width: 100%;
             clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        }
+    }
+    
+    .classic-saas-image {
+        .bg-saas-shape { 
+            img {
+                max-width: 100%;
+                height: auto;
+            }
+            &:after {
+                bottom: -5rem;
+                left: 10rem;
+                width: 30rem;
+                height: 30rem;
+                border-radius: 10rem;
+            } 
         }
     }
 }

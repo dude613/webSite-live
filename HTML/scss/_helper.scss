@@ -1,7 +1,6 @@
 //
 // helper.scss
 //
-
 .section {
     padding: 100px 0;
     position: relative;
@@ -24,14 +23,13 @@
     background-color: $gradident-overlay;
 }
 
+.bg-overlay-white {
+    background-color: $bg-overlay-white;
+}
+
 .bg-overlay-gradient2 {
     background-image: linear-gradient(90deg, $success, $primary, $success);
     opacity: 0.5;
-}
-
-.bg-overlay-dark {
-    background: darken($primary, 30%);
-    opacity: 0.8;
 }
 //Title
 .title-heading {
@@ -78,46 +76,12 @@
         transform-origin: top center;
     }
 }
-.home-shape-bottom {
-    display: block;
-    position: absolute;
-    width: 100%;
-    height: auto;
-    bottom: -1px;
-    left: 0;
-    img {
-        width: 100%;
-        height: auto;
-    }
-}
-.home-shape-arrow {
-    display: block;
-    position: absolute;
-    width: 100%;
-    height: auto;
-    bottom: -38px;
-    z-index: 1;
-    left: 0;
-    img {
-        height: auto;
-        transform: rotate(180deg);
-    }
-    .arrow-icon {
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        text-align: center;
-        display: inline-block;
-    }
-}
 
 .mover {
     animation: mover 1s infinite alternate;
 }
 @keyframes mover {
     0% {
-        -webkit-transform: translateY(0);
         transform: translateY(0);
     }
     100% {
@@ -157,6 +121,6 @@
 
 @media (max-width: 767px) {
     .shape {
-        bottom: -4px;
+        bottom: -1px;
     }
 }

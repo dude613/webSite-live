@@ -29,3 +29,14 @@ $('#owl-fade').owlCarousel({
   animateOut: 'fadeOut',
   items: 1,
 })
+
+
+$('#single-owl').owlCarousel({
+  loop:true,
+  nav: false,
+  dots: true,
+  autoplay:true,
+  autoplayTimeout:5000,
+  autoplayHoverPause:true,
+  items: 1,
+})

@@ -202,7 +202,7 @@
 }
 .media-list {
     .sub-comment {
-        border-right: 2px dashed $gray-300;
+        border-right: 2px dashed $gray-200;
         border-left: 0;
     }
 }
@@ -299,11 +299,11 @@
         transform: rotate(135deg);
     }
 }
+//classic app
 .classic-app-image {
     .bg-app-shape {
         &:after {
             right: -8rem;
-            left: auto;
             transform: rotate(60deg);
         }
     }
@@ -324,6 +324,7 @@
         transform: rotate(150deg);
     }
 }
+
 //saas
 .classic-saas-image {
     .bg-saas-shape {

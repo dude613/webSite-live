@@ -2,7 +2,6 @@
 // Bootstrap-custom.scss
 //
 
-
 @each $name,
 $value in $colors {
     .bg-#{$name} {
@@ -13,7 +12,8 @@ $value in $colors {
     }
     a {
         &.text-#{$name} {
-            &:hover {
+            &:hover,
+            &:focus {
                 color: darken($value, 5%) !important;
             }
         }
@@ -67,36 +67,4 @@ $value in $colors {
 //Small
 .small, small {
     font-size: 90%;
-}
-
-//Table
-.table-responsive {
-    display: block;
-    width: 100%;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;    
-    .table-center {
-        th {
-            vertical-align: middle !important;
-            cursor: pointer;
-        }
-        tbody {
-            tr {
-                &:hover {
-                    color: $dark;
-                    background-color: $gray-100;
-                }
-            }
-        }
-        &.invoice-tb {
-            th, td {
-                text-align: end;
-            }
-        }
-    }
-}
-
-//modal
-.modal-open {
-    padding-right: 0 !important;
 }

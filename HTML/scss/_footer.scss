@@ -20,8 +20,8 @@
     }
     .foot-subscribe {
         .form-control {
-            background-color: #25304e;
-            border: 1px solid #25304e;
+            background-color: lighten($black, 10%);
+            border: 1px solid lighten($black, 10%);
             color: $light;
             &:focus {
                 box-shadow: none;
@@ -58,17 +58,6 @@
     }    
     &.footer-bar {
         padding: 30px 0;
-        .payment-cards {
-            img {
-                height: 25px;
-            }
-        }
+        border-top: 1px solid darken($gray-700, 5%);
     }
-}
-
-hr {
-    margin-top: 0;
-    margin-bottom: 0;
-    border: 0;
-    border-top: 1px solid #333744;
 }
