@@ -84,18 +84,21 @@
                                 <div class="row">
                                     <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
                                         <div class="pricing-rates business-rate shadow bg-light p-4 rounded">
-                                            <h2 class="title text-uppercase mb-4">Free</h2>
+                                            <h2 class="title text-uppercase mb-4">Freelancer</h2>
                                             <div class="d-flex mb-4">
-                                                <span class="h4 mb-0 mt-2">$</span>
-                                                <span class="price h1 mb-0">0</span>
+                                                <span class="h4 mb-0 mt-2">From</span>
+                                                <span class="price h1 mb-0">$0</span>
                                                 <span class="h4 align-self-end mb-1">/mo</span>
                                             </div>
                                             
                                             <ul class="feature list-unstyled pl-0">
-                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>1 Robot</li>
+                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>1 Partial Process</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Minimum Support</li>
+                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Paid Support</li>
                                             </ul>
-                                            <a href="javascript:void(0)" class="btn btn-primary mt-4">Get Started</a>
+                                            <?php
+                                            include("get_started.php");
+                                            ?>
                                         </div>
                                     </div><!--end col-->
                 
@@ -104,16 +107,18 @@
                                             <h2 class="title text-uppercase text-primary mb-4">Startup</h2>
                                             <div class="d-flex mb-4">
                                                 <span class="h4 mb-0 mt-2">from</span>
-                                                <span class="price h1 mb-0">$200</span>
+                                                <span class="price h1 mb-0">$500</span>
                                                 <span class="h4 align-self-end mb-1">/mo</span>
                                             </div>
                 
                                             <ul class="feature list-unstyled pl-0">
-                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Up to 5 Bots</li>
+                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>1 End to End Process</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>9-5 EST Support</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Updates & Management</li>
                                             </ul>
-                                            <a href="javascript:void(0)" class="btn btn-primary mt-4">Get Started</a>
+                                            <?php
+                                            include("get_started.php");
+                                            ?>
                                         </div>
                                     </div><!--end col-->
                 
@@ -127,12 +132,14 @@
                                             </div>
                                             
                                             <ul class="feature list-unstyled pl-0">
-                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Up to 20 Bots</li>
+                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Up to 5 End to End Processes</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>24/7 Support</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Online Bot Management</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Hardware Provided</li>
                                             </ul>
-                                            <a href="javascript:void(0)" class="btn btn-primary mt-4">Get Started</a>
+                                            <?php
+                                            include("get_started.php");
+                                            ?>
                                         </div>
                                     </div><!--end col-->
                 
@@ -144,13 +151,15 @@
                                             </div>
                                             
                                             <ul class="feature list-unstyled pl-0">
-                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Unlimited Bots</li>
+                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Unlimited End to End Processes</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>24/7 Onsite Support</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Online Bot Management</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Online KPI Tracker</li>
-                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Hardware Provided</li>
+                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Custom Hardware Provided</li>
                                             </ul>
-                                            <a href="javascript:void(0)" class="btn btn-primary mt-4">Contact Sales</a>
+                                            <?php
+                                            include("get_started.php");
+                                            ?>
                                         </div>
                                     </div><!--end col-->
                                 </div><!--end row-->
@@ -160,7 +169,7 @@
                                 <div class="row">
                                     <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
                                         <div class="pricing-rates business-rate shadow bg-light p-4 rounded">
-                                            <h2 class="title text-uppercase mb-4">Free</h2>
+                                            <h2 class="title text-uppercase mb-4">Freelancer</h2>
                                             <div class="d-flex mb-4">
                                                 <span class="h4 mb-0 mt-2">$</span>
                                                 <span class="price h1 mb-0">0</span>
@@ -168,10 +177,13 @@
                                             </div>
                                             
                                             <ul class="feature list-unstyled pl-0">
-                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>1 Robot</li>
+                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>1 Partial Process</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Minimum Support</li>
+                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Paid Support</li>
                                             </ul>
-                                            <a href="javascript:void(0)" class="btn btn-primary mt-4">Buy Now</a>
+                                            <?php
+                                            include("get_started.php");
+                                            ?>
                                         </div>
                                     </div><!--end col-->
 
@@ -180,16 +192,18 @@
                                             <h2 class="title text-uppercase text-primary mb-4">Startup</h2>
                                             <div class="d-flex mb-4">
                                                 <span class="h4 mb-0 mt-2">from</span>
-                                                <span class="price h1 mb-0">$175</span>
+                                                <span class="price h1 mb-0">$450</span>
                                                 <span class="h4 align-self-end mb-1">/mo</span>
                                             </div>
 
                                             <ul class="feature list-unstyled pl-0">
-                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Up to 5 Bots</li>
+                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>1 End to End Process</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>9-5 EST Support</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Updates & Management</li>
                                             </ul>
-                                            <a href="javascript:void(0)" class="btn btn-primary mt-4">Get Started</a>
+                                            <?php
+                                            include("get_started.php");
+                                            ?>
                                         </div>
                                     </div><!--end col-->
 
@@ -198,17 +212,19 @@
                                             <h2 class="title text-uppercase mb-4">Small Business</h2>
                                             <div class="d-flex mb-4">
                                                 <span class="h4 mb-0 mt-2">from</span>
-                                                <span class="price h1 mb-0">$600</span>
+                                                <span class="price h1 mb-0">$700</span>
                                                 <span class="h4 align-self-end mb-1">/mo</span>
                                             </div>
                                             
                                             <ul class="feature list-unstyled pl-0">
-                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Up to 20 Bots</li>
+                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Up to 5 End to End Processes</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>24/7 Support</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Online Bot Management</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Hardware Provided</li>
                                             </ul>
-                                            <a href="javascript:void(0)" class="btn btn-primary mt-4">Try It Now</a>
+                                            <?php
+                                            include("get_started.php");
+                                            ?>
                                         </div>
                                     </div><!--end col-->
 
@@ -220,13 +236,15 @@
                                             </div>
                                             
                                             <ul class="feature list-unstyled pl-0">
-                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Unlimited Bots</li>
+                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Unlimited End to End Processes</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>24/7 Onsite Support</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Online Bot Management</li>
                                                 <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Online KPI Tracker</li>
-                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Hardware Provided</li>
+                                                <li class="feature-list"><i class="mdi mdi-check text-success h5 mr-1"></i>Custom Hardware Provided</li>
                                             </ul>
-                                            <a href="javascript:void(0)" class="btn btn-primary mt-4">Contact Sales</a>
+                                            <?php
+                                            include("get_started.php");
+                                            ?>
                                         </div>
                                     </div><!--end col-->
                                 </div><!--end row-->
