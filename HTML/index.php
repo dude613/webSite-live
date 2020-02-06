@@ -308,7 +308,7 @@
                                 <li class="list-inline-item"><a href="mailto:info@bflexd.com" class="rounded"><i class="mdi mdi-email" title="Email"></i></a></li>
                                 <li class="list-inline-item"><a href="https://www.linkedin.com/company/flexbots/" class="rounded"><i class="mdi mdi-linkedin" title="Linkedin"></i></a></li>
                                 <li class="list-inline-item"><a href="https://twitter.com/bflexd" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
-                                <li class="list-inline-item"><a href="SMS:+16464946771&body=Hi%2520," class="rounded"><i class="mdi mdi-phone" title="Phone"></i></a></li>
+                                <li class="list-inline-item"><a href="SMS:+16464946771;?&body=Hi,%20I%20would%20like%20to%20learn%20more" class="rounded"><i class="mdi mdi-phone" title="Phone"></i></a></li>
                             
                             </ul><!--end icon-->
                         </div><!--end col-->
