@@ -39,7 +39,6 @@ if (isset($_POST['fname']) && isset($_POST['email']) && isset($_POST['company'])
 
     }
 
-
     if ($errcode != 112) {
 
         $email = test_input($_POST['email']);
@@ -107,7 +106,6 @@ if (isset($_POST['fname']) && isset($_POST['email']) && isset($_POST['company'])
 
             header('Location: index.php');
 
-
         }
         $name = $lname = $email = $phone = NULL;
         $cc = NULL;
@@ -124,7 +122,6 @@ if (isset($_POST['fname']) && isset($_POST['email']) && isset($_POST['company'])
 }
 
 ?>
-
 
 <html>
 <head>

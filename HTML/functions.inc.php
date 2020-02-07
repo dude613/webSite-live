@@ -43,7 +43,6 @@ if (!function_exists("GetSQLValueString")) {
     }
 }
 
-
 function test_input($data)
 {
     $data = trim($data);
@@ -52,7 +51,6 @@ function test_input($data)
     $data = htmlspecialchars($data);
     return $data;
 }
-
 
 function get_ip_address()
 {
