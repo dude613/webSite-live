@@ -173,7 +173,7 @@
                     <div class="col-12 text-center">
                         <div class="section-title mb-4 pb-2">
                             <h4 class="title mb-4">Team</h4>
-                            <p class="text-muted para-desc mx-auto mb-0">The amazing individuals behind <span class="text-primary font-weight-bold">FlexBot</span>.</p>
+                            <p class="text-muted para-desc mx-auto mb-0">The amazing individuals powering <span class="text-primary font-weight-bold">FlexBot</span>.</p>
                         </div>         
                     </div><!--end col-->
                 </div><!--end row-->
@@ -184,15 +184,14 @@
                             <div class="position-relative">
                                 <img src="images/client/01.jpg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
                                 <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-facebook" title="Facebook"></i></a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-instagram" title="Instagram"></i></a></li>
+                                    <li class="list-inline-item"><a href="https://www.linkedin.com/in/orlian/" class="rounded"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-google-plus" title="Twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="mailto:avi@bflexd.com" class="rounded"><i class="mdi mdi-email" title="Email"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content pt-3 pb-3">
-                                <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Ronny Jofra</a></h5>
-                                <small class="designation text-muted">C.E.O</small>
+                                <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Avi Orlian</a></h5>
+                                <small class="designation text-muted">C.E.O & Founder</small>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -202,15 +201,14 @@
                             <div class="position-relative">
                                 <img src="images/client/04.jpg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
                                 <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-facebook" title="Facebook"></i></a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-instagram" title="Instagram"></i></a></li>
+                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-google-plus" title="Twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-email" title="Email"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content pt-3 pb-3">
-                                <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Micheal Carlo</a></h5>
-                                <small class="designation text-muted">Director</small>
+                                <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Sara Carlo</a></h5>
+                                <small class="designation text-muted">Project Manager</small>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -220,15 +218,14 @@
                             <div class="position-relative">
                                 <img src="images/client/02.jpg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
                                 <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-facebook" title="Facebook"></i></a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-instagram" title="Instagram"></i></a></li>
+                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-google-plus" title="Twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-email" title="Email"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content pt-3 pb-3">
-                                <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Aliana Rosy</a></h5>
-                                <small class="designation text-muted">Manager</small>
+                                <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Sarunes Rosi</a></h5>
+                                <small class="designation text-muted">Lead Engineer</small>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -238,15 +235,14 @@
                             <div class="position-relative">
                                 <img src="images/client/03.jpg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
                                 <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-facebook" title="Facebook"></i></a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-instagram" title="Instagram"></i></a></li>
+                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-google-plus" title="Twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="mailto:matt@bflexd.com" class="rounded"><i class="mdi mdi-email" title="Email"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content pt-3 pb-3">
-                                <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Sofia Razaq</a></h5>
-                                <small class="designation text-muted">Developer</small>
+                                <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Matt Rodriguez</a></h5>
+                                <small class="designation text-muted">Business Development Associate</small>
                             </div>
                         </div>
                     </div><!--end col-->
