@@ -37,7 +37,7 @@
 
                         <div class="row">
                             <div class="col-md-12 text-center">  
-                                <a href="index.html" class="btn btn-primary mt-4 ml-2">Home</a>
+                                <a href="index" class="btn btn-primary mt-4 ml-2">Home</a>
                             </div>
                         </div>
                     </div>
