@@ -31,12 +31,12 @@
                                     <div class="title-heading mt-4">
                                         <div class="alert alert-light alert-pills shadow" role="alert">
                                             <span class="badge badge-success rounded mr-1">v1.6</span>
-                                            <span class="content"> Empower your <span class="text-primary">all</span> your employees - FlexBot.</span>
+                                            <span class="content"> Empower <span class="text-primary">all</span> your employees - FlexBot.</span>
                                         </div>
                                             <h1 class="h1">Automating Business Processes for <span class="element text-primary" data-elements="Healthcare, Non-Profit, Technology, Manufacturing, Real Estate, Financial"></span> Organizations</h1>
                                             <p class="font_test">Flexbot's digital robots & automation infastructures increase employee productivity & satisfaction, while improving your organizations operational efficiency & business process.</p>
                                         <div class="mt-4 pt-2">
-                                            <!--<a href="https://app.bflexd.com" class="btn btn-primary mt-2"> Sign Up<i class="mdi"></i></a>-->
+                                            <a href="https://app.bflexd.com" class="btn btn-primary mt-2"><i class="mdi"></i>Login</a>
                                             <a href="register" class="btn btn-outline-primary mt-2"><i class="mdi"></i> Contact Sales</a>
                                         </div>
                                     </div>

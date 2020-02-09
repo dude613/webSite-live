@@ -235,7 +235,7 @@
                             <div class="position-relative">
                                 <img src="images/client/03.jpg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
                                 <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
+                                    <li class="list-inline-item"><a href="https://www.linkedin.com/in/matias-rodriguez-351906152/" class="rounded"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
                                     <li class="list-inline-item"><a href="mailto:matt@bflexd.com" class="rounded"><i class="mdi mdi-email" title="Email"></i></a></li>
                                 </ul>

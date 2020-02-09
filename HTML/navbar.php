@@ -6,7 +6,7 @@
                     <a class="logo" href="https://bflexd.com">FlexBot</a>
                 </div>                 
                 <div class="buy-button">
-                    <a href="register" class="btn btn-outline-primary mt-2 mr-2">Contact Sales</a>
+                    <a href="register" class="btn btn-outline-primary mt-2 mr-2">Get Started</a>
                 </div><!--end login button-->
                 <!-- End Logo container-->
                 <div class="menu-extras">
