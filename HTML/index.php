@@ -203,7 +203,6 @@
             </section>
             <!--end section-->
             <!-- Counter End -->
-
             <!-- News Start -->
             <section class="section bg-light">
                 <div class="container">
@@ -223,7 +222,7 @@
                                     <div class="overlay rounded-top bg-dark"></div>
                                 </div>
                                 <div class="content p-4">
-                                    <h4><a href="javascript:void(0)" class="title text-dark">Steps to Implementing RPA</a></h4>
+                                    <h4><a href="Steps to Implementing RPA" class="title text-dark">Steps to Implementing RPA</a></h4>
                                     <div class="post-meta mt-3">
                                         <a href="Steps to Implementing RPA" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
                                     </div>
