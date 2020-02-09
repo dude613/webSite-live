@@ -253,11 +253,11 @@
                 <div class="row justify-content-center">
                     <div class="col-12 text-center">
                         <div class="section-title">
-                            <h4 class="title mb-4">See everything about your employee at one place.</h4>
-                            <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">FlexBot</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                            <h4 class="title mb-4">Start digital transformation before it defeats you</h4>
+                            <p class="text-muted para-desc mx-auto mb-0">Start your automation journey with <span class="text-primary font-weight-bold">FlexBot</span>, and see quality results quickly.</p>
                         
                             <div class="mt-3">
-                                 <a href="javascript:void(0)" class="btn btn-outline-primary mt-2">Contact Sales</a>
+                                 <a href="contact" class="btn btn-outline-primary mt-2">Contact Sales</a>
                             </div>
                         </div>
                     </div><!--end col-->
