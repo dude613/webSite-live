@@ -80,7 +80,7 @@
                                 <li><i class="mdi mdi-pan-right mdi-24px mr-2"></i>Eliminate Offsite Document Storage</li>
                             </ul>
 
-                            <a href="page-contact-three.html" class="btn btn-primary">Get Started</a>
+                            <a href="contact" class="btn btn-primary">Get Started</a>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->

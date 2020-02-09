@@ -225,7 +225,7 @@
                                 <div class="content p-4">
                                     <h4><a href="javascript:void(0)" class="title text-dark">Steps to Implementing RPA</a></h4>
                                     <div class="post-meta mt-3">
-                                        <a href="javascript:void(0)" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
+                                        <a href="Steps to Implementing RPA" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
                                     </div>
                                 </div>
                                 <div class="author">
