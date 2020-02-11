@@ -81,6 +81,8 @@
                             </ul>
 
                             <a href="page-contact-three.html" class="btn btn-primary">Get Started</a>
+                            <a href="https://youtu.be/pfsmEC-RY74" target="_blank" class="btn btn-outline-primary"> Watch Video</a>
+
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
