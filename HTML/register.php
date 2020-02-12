@@ -508,11 +508,18 @@ if (isset($_POST['fname']) && isset($_POST['email']) && isset($_POST['company'])
         var steps = $("fieldset").length;
 
         setProgressBar(current);
+        $(window).keydown(function(event){
+            if(event.keyCode == 13) {
+                event.preventDefault();
+                nextStep();
 
-        $(".next").click(function () {
+            }
+        });
+        $(".next").click(nextStep);
 
-            current_fs = $(this).parent();
-            next_fs = $(this).parent().next();
+        function nextStep() {
+            current_fs = $("fieldset:visible");
+            next_fs = $("fieldset:visible").next();
 
 //Add Class Active
             $("#progressbar li").eq($("fieldset").index(next_fs)).addClass("active");
@@ -534,7 +541,7 @@ if (isset($_POST['fname']) && isset($_POST['email']) && isset($_POST['company'])
                 duration: 500
             });
             setProgressBar(++current);
-        });
+        }
 
         $(".previous").click(function () {
 
