@@ -63,20 +63,15 @@
                 <div class="row align-items-center">
                     <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="position-relative">
-                            <img src="images/about.jpg" class="rounded img-fluid mx-auto d-block" alt="">
-                            <div class="play-icon">
-                                <a href="http://vimeo.com/287684225" class="play-btn video-play-icon">
-                                    <i class="mdi mdi-play text-primary rounded-pill bg-white shadow"></i>
-                                </a>
-                            </div>
+                            <img src="images/flexbot-digital robots and automation.jpg" class="rounded img-fluid mx-auto d-block" alt="">
                         </div>
                     </div><!--end col-->
 
                     <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="section-title ml-lg-4">
                             <h4 class="title mb-4">Our Story</h4>
-                            <p class="text-muted">Start working with <span class="text-primary font-weight-bold">FlexBot</span> that can provide everything you need to generate awareness, drive traffic, connect. Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy texts have been in use by typesetters since the 16th century.</p>
-                            <a href="javascript:void(0)" class="btn btn-primary mt-3">Buy Now <i class="mdi mdi-chevron-right"></i></a>
+                            <p class="text-muted"><span class="text-primary font-weight-bold">FlexBot</span> is a spin off from the Ayam Group, a bespoke digital technology development firm that focuses on optimizing the business process of organizations. As our clients were asking for more automation related development projects to improve the quality and efficiency of their operations, we decided to spin off a company that would focus 100% of it’s time and resources on automation & digital robots.</p>
+                            <a href="register" class="btn btn-primary mt-3">Get Started <i class="mdi mdi-chevron-right"></i></a>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -87,7 +82,7 @@
                     <div class="col-12 text-center">
                         <div class="section-title mb-4 pb-2">
                             <h4 class="title mb-4">Key Features</h4>
-                            <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">FlexBot</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                            <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">FlexBot</span> and watch automation transform your company & business process for the better.</p>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->

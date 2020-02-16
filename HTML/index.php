@@ -209,8 +209,8 @@
                     <div class="row justify-content-center">
                         <div class="col-12 text-center">
                             <div class="section-title mb-4 pb-2">
-                                <h4 class="title mb-4">Latest Bot News</h4>
-                                <p class="text-muted para-desc mx-auto mb-0">Stay updated with <span class="text-primary font-weight-bold">FlexBot's</span> technologies & industry news.</p>
+                                <h4 class="title mb-4">Latest From Our Desk</h4>
+                                <p class="text-muted para-desc mx-auto mb-0">Stay updated with <span class="text-primary font-weight-bold">FlexBot's</span> automation technologies & industry news.</p>
                             </div>
                         </div><!--end col-->
                     </div><!--end row-->
