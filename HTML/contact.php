@@ -1,4 +1,4 @@
-
+ontac
 <!DOCTYPE html>
 <html lang="en">
 
@@ -142,9 +142,9 @@
                             <img src="images/icon/location.svg" class="avatar avatar-small" alt="">
                         </div>
                         <div class="content mt-3">
-                            <h4 class="title font-weight-bold">368 9th Avenue, NYC</h4>
+                            <h4 class="title font-weight-bold">Headquarters</h4>
                             <p class="text-muted">  </p>
-                            <a href="https://maps.google.com/maps?q=368%209th%20Ave%2C%20New%20York%2C%20NY%2010001&t=&z=13&ie=UTF8&iwloc=&output=embed" class="video-play-icon h6 text-primary">View on Google map</a>
+                            <a href="https://maps.google.com/maps?q=368%209th%20Ave%2C%20New%20York%2C%20NY%2010001&t=&z=13&ie=UTF8&iwloc=&output=embed" class="video-play-icon h6 text-primary">368 9th Avenue, NYC</a>
                         </div>  
                     </div>
                 </div><!--end col-->
