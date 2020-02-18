@@ -177,7 +177,7 @@
                     <div class="col-lg-3 col-md-6 mt-4 pt-2">
                         <div class="team text-center">
                             <div class="position-relative">
-                                <img src="images/client/01.jpg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
+                                <img src="images/avi orlian.svg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
                                 <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
                                     <li class="list-inline-item"><a href="https://www.linkedin.com/in/orlian/" class="rounded"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
@@ -194,7 +194,7 @@
                     <div class="col-lg-3 col-md-6 mt-4 pt-2">
                         <div class="team text-center">
                             <div class="position-relative">
-                                <img src="images/client/04.jpg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
+                                <img src="images/matt.svg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
                                 <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
@@ -211,7 +211,7 @@
                     <div class="col-lg-3 col-md-6 mt-4 pt-2">
                         <div class="team text-center">
                             <div class="position-relative">
-                                <img src="images/client/02.jpg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
+                                <img src="images/matt.svg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
                                 <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
@@ -228,7 +228,7 @@
                     <div class="col-lg-3 col-md-6 mt-4 pt-2">
                         <div class="team text-center">
                             <div class="position-relative">
-                                <img src="images/client/03.jpg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
+                                <img src="images/matt.svg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
                                 <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
                                     <li class="list-inline-item"><a href="https://www.linkedin.com/in/matias-rodriguez-351906152/" class="rounded"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
