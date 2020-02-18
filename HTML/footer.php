@@ -6,6 +6,7 @@
                     <a class="logo-footer" href="#">FlexBot<span class="text-primary">.</span></a>
                     <p class="mt-4">Build your automation infastructure with flexBot's robotic process automations & be assured your organization is operating at peak efficiency. </p>
                     <ul class="list-unstyled social-icon social mb-0 mt-4">
+                       
                         <li class="list-inline-item"><a href="mailto:info@bflexd.com" class="rounded"><i class="mdi mdi-email" title="Email"></i></a></li>
                         <li class="list-inline-item"><a href="https://www.linkedin.com/company/flexbots/" class="rounded"><i class="mdi mdi-linkedin" title="Linkedin"></i></a></li>
                         <li class="list-inline-item"><a href="https://twitter.com/bflexd" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>

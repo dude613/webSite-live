@@ -177,7 +177,7 @@
                     <div class="col-lg-3 col-md-6 mt-4 pt-2">
                         <div class="team text-center">
                             <div class="position-relative">
-                                <img src="images/avi orlian.svg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
+                                <img src="images/avi_orlian.svg" class="img-fluid avatar avatar-ex-large rounded-pill" alt="">
                                 <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
                                     <li class="list-inline-item"><a href="https://www.linkedin.com/in/orlian/" class="rounded"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i class="mdi mdi-twitter" title="Twitter"></i></a></li>
@@ -203,7 +203,7 @@
                             </div>
                             <div class="content pt-3 pb-3">
                                 <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Sara Carlo</a></h5>
-                                <small class="designation text-muted">Project Manager</small>
+                                <small class="designation text-muted">Lead Projects Manager</small>
                             </div>
                         </div>
                     </div><!--end col-->
