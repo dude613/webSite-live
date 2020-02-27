@@ -82,6 +82,7 @@
                         <div class="tab-content" id="pills-tabContent">
                             <div class="tab-pane fade active show" id="Month" role="tabpanel" aria-labelledby="Monthly">    
                                 <div class="row">
+                                    
                                     <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
                                         <div class="pricing-rates business-rate shadow bg-light p-4 rounded">
                                             <h2 class="title text-uppercase mb-4">Freelancer</h2>
