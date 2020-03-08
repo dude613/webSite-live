@@ -112,15 +112,6 @@
                             </div>
                         </div><!--end col-->
                 </div><!--end container-->
-
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="home-shape-arrow">
-                            <img src="images/shapes/arrow-bottom.png" alt="" class="img-fluid mx-auto d-block">
-                            <a href="#cta" class="mouse-down"><i class="mdi mdi-chevron-double-down arrow-icon mover text-dark h5"></i></a>
-                        </div> 
-                    </div><!--end row-->
-                </div> <!-- END CONTAINER -->
             </section><!--end section-->
             <!-- End feature -->
 
