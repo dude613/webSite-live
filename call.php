@@ -30,12 +30,12 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="page-next-level">
-                                    <h4 class="title"> Starting A Google© Hangouts Meeting</h4>
+                                    <h4 class="title"> Hosting A Conference Call</h4>
                                     <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
                                         <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
                                           
                                         <li>
-                                            <span class="text-uppercase text-primary font-weight-bold"> Zoom© </span> 
+                                            <span class="text-uppercase text-primary font-weight-bold"> Call </span> 
                                         </li> 
                                     </ul>
                                 </div>
@@ -68,24 +68,15 @@
         <div class="GridRow-jyRKfm cspXHn">
         <div class="GridColumn-khBkHc jyBNEY">
         <div class="ModuleContainer-bLxnIj jfAQDc">
-        <h1>Starting A Hangouts Video Call</h1>
+        <h1>How Do I Host A Conference Call?</h1>
         <div class="text__legal__-YdKd">
-        <p><em>source: <a href="https://support.google.com/a/users/answer/9300131?hl=en" target="_blank">support.google </a></em></p>
-        <h2>1. Signing In</h2>
-        <p><strong>1</strong> Go to <a href="https://zoom.us"target="_blank">zoom.us </a>and click on Sign In. </p>
-        <p><strong>2</strong> You can use the "e-mail" and "password" that you have created, or use your Google (Gmail or Google App) or Facebook account to sign in with.</p>
-        <p><strong>Note</strong> Note: If you do not have a current Zoom account, please click on Sign Up Free to create a new one.</p>
+        <h2>1. Create an Account</h2>
+        <p><strong>1</strong> Go to <a href="https://www.freeconferencecalling.com"target="_blank"> Free Conference Calls </a>and click on Create an Account. </p>
+        <p><strong>2</strong> Create an account and then check your email to confirm the email address you entered by clicking on the link they sent you.</p>
         <h2>2. Hosting a Meeting</h2>
-        <p>If you do NOT have the Zoom app installed, go to <a href="https://zoom.us" target="_blank">zoom.us </a>and select "Host a Meeting" to start the installation. If you DO have the App installed, see below -</p>
-        <p><strong>1</strong> Open your Zoom app on your desktop and click Sign In.</p>
-        <div class="position-relative">
-            <img src="https://assets.zoom.us/images/en-us/desktop/generic/home/join-meeting-or-sign-in-screen.png" class="rounded img-fluid mx-auto d-block" alt="">
-        </div>
-        <p><strong>2</strong> Log in using the E-mail and password that you have created, or with Google(Gmail), Facebook, or Login with SSO.</p>
-        <p><strong>3</strong> Click the downward arrow and select Start with video, then click New Meeting to start an instant meeting.</p>
-        <div class="position-relative">
-            <img src="https://assets.zoom.us/images/en-us/desktop/generic/home/new-meeting-button-use-my-pmi.png" class="rounded img-fluid mx-auto d-block" alt="">
-        </div>
+        <p>Make sure you are on <a href="https://www.freeconferencecalling.com/admin/admin-manage.aspx" target="_blank">this page </a>.</p>
+        <p>Call in with the number displayed, the meeting number, & the host number. The click refresh.</p>
+        <p>When you are hosting or <a href="add">adding a Shiur</a> to ShiurZoom, you would the host number & code in the shiur description.</p>
         </div>
         </div>
         </div>

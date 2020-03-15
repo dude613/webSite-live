@@ -30,7 +30,7 @@
                                 <div class="col-lg-6 col-md-7">
                                     <div class="title-heading mt-4">
                                             <h1 class="h1">Learning Groups Never End</h1>
-                                            <p class="font_test">Flexbot's digital robots & automation infastructures increase employee productivity & satisfaction, while improving your organizations operational efficiency & business process.</p>
+                                            <p class="font_test">ZoomShiur's mission statement is to assist in ensuring the un-interrupted flow of shiurim, classes, & torah sessions accross the world.</p>
                                         <div class="mt-4 pt-2">
                                             <a href="view" class="btn btn-primary mt-2"><i class="mdi"></i>View Shiurim</a>
                                             <a href="add" class="btn btn-outline-primary mt-2"><i class="mdi"></i> Add Shiur</a>

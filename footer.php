@@ -20,7 +20,8 @@
                     <h4 class="text-light footer-head">Useful Links</h4>
                     <ul class="list-unstyled footer-list mt-4">
                         <li><a href="zoom" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>Zoom</a></li>
-                        <li><a href="hangouts" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>Google Hangouts</a></li>
+                        <li><a href="call" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>Conference Call</a></li>
+                        <!--<li><a href="hangouts" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>Google Hangouts</a></li>-->
                     </ul>
                 </div><!--end col-->
     
@@ -50,7 +51,7 @@
             <div class="row align-items-center">
                 <div class="col-sm-6">
                     <div class="text-sm-left">
-                        <p class="mb-0">© 2020 Avi Orlian. Proudly Powered by <a href="https://ayamllc.com/" target="_blank" class="text-success">The Ayam Group, LLC</a>.</p>
+                        <p class="mb-0">© 2020 A.M.O. Proudly Powered by <a href="https://ayamllc.com/" target="_blank" class="text-success">The Ayam Group, LLC</a>.</p>
                     </div>
                 </div>
             </div>

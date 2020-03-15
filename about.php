@@ -62,7 +62,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="position-relative">
-                            <img src="images/flexbot-digital robots and automation.jpg" class="rounded img-fluid mx-auto d-block" alt="">
+                            <img src="https://www.educationnext.org/files/ednext_XIX_4_wecker_img01.png" class="rounded img-fluid mx-auto d-block" alt="">
                         </div>
                     </div><!--end col-->
 

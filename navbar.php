@@ -38,11 +38,21 @@
                                     </ul>
                                 </li>   
                             </ul>
-                        </li>
                             <li class="has-submenu">
-                                <a href="about">About</a>
-                            </li>
-                        </ul>
+                            <a href="posts">Resources</a><span class="menu-arrow"></span>
+                            <ul class="submenu megamenu">
+                                <li>
+                                    <ul>
+                                        <li><a href="zoom">Zoom </a></li>
+                                        <li><a href="call">Call </a></li>
+                                        <li><a href="shiur">What is A Shiur </a></li>
+                                        <!--<li><a href="hangouts">Hangouts </a></li>
+                                        <li><a href="youtube">Youtube </a></li> -->
+                                    </ul>
+                                </li>   
+                            </ul>
+                        </li>
+                        <li><a href="about">About</a></li>
                     </li>
                     </ul>
                         <!--end navigation menu-->

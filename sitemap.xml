@@ -13,19 +13,29 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.bflexd.com/about</loc>
+  <loc>https://www.zoomshiur.com/about</loc>
   <lastmod>2020-03-04T09:29:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bflexd.com/index</loc>
+  <loc>https://www.zoomshiur.com/index</loc>
   <lastmod>2020-03-04T09:29:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.bflexd.com/index.php</loc>
+  <loc>https://www.zoomshiur.com/index.php</loc>
   <lastmod>2020-03-04T09:29:31+00:00</lastmod>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.zoomshiur.com/zoom</loc>
+  <lastmod>2020-03-04T09:29:31+00:00</lastmod>
+  <priority>0.61</priority>
+  <url>
+  <loc>https://www.zoomshiur.com/hangouts</loc>
+  <lastmod>2020-03-04T09:29:31+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
 </url>
 
 </urlset>

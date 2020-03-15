@@ -7,14 +7,14 @@
 	$host = $_SERVER['SERVER_NAME']  . $_SERVER['REQUEST_URI'];
 	 
 	if($host == 'zoomshiur.com/'){
-		echo '<title> Robotic Process Automation Solutions New York Miami  </title>';
-		echo '<meta name="Keywords" content="Robotic Process Automation Solutions, New York, Miami" />';
-		 echo '<meta name="description" content="Are you in search of professional company that offers robotic process automation solutions? Contact us today to automate your business task with robotic process automation." />';
+		echo '<title> ZoomShiur  </title>';
+		echo '<meta name="Keywords" content="ZoomShiur" />';
+		 echo '<meta name="description" content="ZoomShiur is the resource you need to ensure your shiur is un-interrupted" />';
 	}
 	if($host == 'zoomshiur.com/about'){
-		echo '<title> Professional Robotic Process Automation Consultants New York </title>';
-		echo '<meta name="Keywords" content="Professional Robotic Process Automation Consultants, New York" />';
-		 echo '<meta name="description" content="Get the services of professional robotic process automation consultants and reduce your cost and improve your productivity. Contact us today for more info." />';
+		echo '<title> About ZoomShiur </title>';
+		echo '<meta name="Keywords" content="ZoomShiur" />';
+		 echo '<meta name="description" content="ZoomShiur was built to enable zooming fast shiur & torah classes." />';
 	}
 	?>
    
@@ -29,14 +29,15 @@
     <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
     <!-- Main css -->
     <link href="css/style.css" rel="stylesheet" type="text/css" />
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+    <!-- Global site tag (gtag.js) - Google Analytics 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-150962890-1"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-    gtag('config', 'UA-150962890-1');
-    </script>
+        gtag('config', 'UA-150962890-1');
+    </script>-->
 
 </head>
